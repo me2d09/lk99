@@ -1,0 +1,27 @@
+Version Jana2006
+title
+cell 8.466523 5.395564 6.952746 90 90 90
+esdcell 0.000643 0.000405 0.000513 0 0 0
+spgroup Pnma 62 3
+lattice P
+symmetry x y z
+symmetry -x+1/2 -y z+1/2
+symmetry -x y+1/2 -z
+symmetry x+1/2 -y+1/2 -z+1/2
+symmetry -x -y -z
+symmetry x+1/2 y -z+1/2
+symmetry x -y+1/2 z
+symmetry -x+1/2 y+1/2 z+1/2
+unitsnumb 0
+roundmethod 1
+end
+*******************************************************************************
+contour
+end contour
+dist
+end dist
+fourier
+end fourier
+refine
+  dolebail 1
+end refine

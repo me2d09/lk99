@@ -1,0 +1,21 @@
+TITL  PbSO4 D1A(ILL),Rietveld Round Robin, R.J. Hill,JApC 25,589(1992)
+FILES => PCR-file : pbso4
+FILES => DAT-files: 230803_PbSO4raw                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+DATE & TIME     Date: 04/08/2023  Time: 08:14:45.530                              
+REM   NPHASE    IDUM   IASG    NRELL   ICRYG 
+GLB1     1       0       0       0       0
+REM   JOBTYP   NPROF  NBCKGD   NEXCRG   NSCAT   NORI
+GLB1     1       7       0       2       0       0
+REM    IWGT    ILOR   IRESO    ISTEP    IXUNIT  ICORR 
+GLB2     0       0       0       0       0       0
+REM   IOT   IPL   IPC   MAT   NXT  lst1  lst2  lst3  NLIN  PL_PRF
+OUT1    0     0     1     0     1     0     4     0     0     1
+REM   instr  JCIL  JSY  jlkh  jfou ISHOR ianaly
+OUT2    6     1     1     0     0     1     1
+REM    MAT   NXT   NLIN  JCIL  JSY  ISHOR 
+OUT1    0     1     0     1     1     1
+REM    IOT   IPL   IPC  LST1  LST2  LST3  
+OUT2    0     0     1     0     4     0
+REM  PL_PRF INSTR  JLKH JFOU  IANALY
+OUT3    1     6     0     0     1
+DATT        0   0        0.00

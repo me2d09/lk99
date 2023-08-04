@@ -1,0 +1,747 @@
+
+
+        **********************************************************
+        ** PROGRAM FullProf.2k (Version 7.20 - Oct2019-ILL JRC) **
+        **********************************************************
+                       M U L T I -- P A T T E R N                 
+            Rietveld, Profile Matching & Integrated Intensity     
+                 Refinement of X-ray and/or Neutron Data
+
+
+    Date: 04/08/2023  Time: 14:02:16.030                              
+
+ => PCR file code: pbso4
+ => DAT file code: 230803_PbSO4raw_geom -> Relative contribution: 1.0000                                                            
+
+ ==> CONDITIONS OF THIS RUN FOR PATTERN No.:  1
+
+ => Global Refinement of X-ray powder diffraction data                                                                              
+ => Global Refinement of X-ray powder diffraction data                                                                              
+    Bragg-Brentano(X-rays) or Debye-Scherrer geometry(Neutrons)
+ => Title: PbSO4 D1A(ILL),Rietveld Round Robin, R.J. Hill,JApC 25,589(1992)
+
+ => Number of phases:    1
+ => Number of excluded regions:    2
+ => Number of scattering factors supplied:    0
+ => March-Dollase model for preferred orientation
+ => Conventional weights: w=1.0/Variance(yobs)
+ => Asymmetry correction as in J.Appl.Cryst. 26,128(1993)
+ => Background refined by polynomial function
+ => The    5th default profile function was selected
+ => Pseudo-Voigt function (ETA variable)
+                 X-parameter correspond to: ETA=ETA0+X*2theta
+                       pV(x)= ETA*L(x)+(1-ETA)*G(x)
+
+ ==> INPUT/OUTPUT OPTIONS:
+
+ => Generate file *.PRF for plot
+ => Generate new input file *.PCR
+
+ => Data supplied in free format for pattern:  1
+ => Plot pattern at each cycle
+ => Wavelengths:  1.54056 1.54439
+ => Alpha2/Alpha1 ratio:   0.5000
+ => Cos(Monochromator angle)=   0.0000
+ => Asymmetry correction for angles lower than   60.000 degrees
+ => Absorption correction (AC), muR-eff =   0.0000  0.0000
+ => Base of peaks: 2.0*HW*    4.00
+
+ => Number of cycles:   30
+ => Relaxation factors ==>    for coordinates:  1.00
+ => for anisotropic temperature factors:  1.00
+ => for halfwidth/strain/size parameters:  1.00
+ => for lattice constants and propagation vectors:  1.00
+ => EPS-value for convergence:    0.1
+
+ => Excluded regions for Pattern#  1
+    From     to
+      0.0000     10.0000
+    154.0000    180.0000
+
+ => Number of Least-Squares parameters varied:    29
+
+ =>--------------------------->
+ =>------->  PATTERN number:  1
+ =>--------------------------->
+ => Global parameters and codes ==>
+ => Zero-point:     0.0473  240.1000
+ => Background parameters and codes ==>
+ => Origin of polynomial at 2theta/TOF/E(KeV):   40.000  
+  18.956      7.4190      0.0000      0.0000      0.0000      0.0000    
+      251.00      261.00        0.00        0.00        0.00        0.00
+ => Displacement peak-shift parameter and code:     0.00    0.00
+ => Transparency peak-shift parameter and code:     0.00    0.00
+
+ => Reading Intensity data  =>>
+
+ ==> Angular range, step and number of points:
+     2Thmin:       5.000000  2Thmax:     100.000000  Step:       0.020000  No. of points:   4751
+ --------------------------------------------------------------------------------
+ => Phase  No. 1
+       PbSO4                       VARY xyz b          BKG blue             
+ --------------------------------------------------------------------------------
+ =>-------> Pattern#  1
+ => Crystal Structure Refinement
+ => The    7th profile function was selected for phase no.  1
+ => Preferred orientation vector:   0.0000  0.0000  1.0000
+
+ =>-------> Data for PHASE: 1
+ => Number of atoms:    5
+ => Number of distance  constraints:    0
+ => Number of angle     constraints:    0
+
+ => Symmetry information on space group: P n m a             
+ -> The multiplicity of the general position is:   8
+ -> The space group is Centric (-1 at origin)   
+ -> Lattice type  P: { 000 }                                       
+ -> Reduced set of symmetry operators:
+
+  No.  IT   Symmetry symbol    Rotation part     Associated Translation
+   1: ( 1)   1            -->     ( x, y, z) + {  0.0000  0.0000  0.0000}
+   2: ( 4)   2 ( x, 0, 0) -->     ( x,-y,-z) + {  0.5000  0.5000  0.5000}
+   3: ( 3)   2 ( 0, y, 0) -->     (-x, y,-z) + {  0.0000  0.5000  0.0000}
+   4: ( 2)   2 ( 0, 0, z) -->     (-x,-y, z) + {  0.5000  0.0000  0.5000}
+
+
+        Information on Space Group: 
+        --------------------------- 
+
+ =>   Number of Space group:  62
+ =>  Hermann-Mauguin Symbol: P n m a
+ =>             Hall Symbol: -P 2ac 2n
+ =>            Setting Type: IT (Generated from Hermann-Mauguin symbol)
+ =>          Crystal System: Orthorhombic
+ =>              Laue Class: mmm
+ =>             Point Group: mmm
+ =>         Bravais Lattice: P
+ =>          Lattice Symbol: oP
+ =>  Reduced Number of S.O.:   4
+ =>    General multiplicity:   8
+ =>          Centrosymmetry: Centric (-1 at origin)
+ =>  Generators (exc. -1&L):   2
+ =>         Asymmetric unit:  0.000 <= x <=  0.500
+                              0.000 <= y <=  0.250
+                              0.000 <= z <=  1.000
+
+ => List of S.O. without inversion and lattice centring translations
+ => SYMM(  1): x,y,z                               => SYMM(  2): x+1/2,-y+1/2,-z+1/2
+ => SYMM(  3): -x,y+1/2,-z                         => SYMM(  4): -x+1/2,-y,z+1/2
+
+
+ => Initial parameters ==>
+ Atom    Ntyp                  X         Y         Z         B         occ.         in  fin  Spc  Mult
+                             B11       B22       B33       B12       B13       B23
+ Pb     PB                 0.18705   0.25000   0.16502   3.46983   0.50000           0    0    1    4
+                 Codes:   41.00000   0.00000  61.00000  31.00000   0.00000
+ S      S                  0.06393   0.25000   0.68356   5.63961   0.50000           0    0    2    4
+                 Codes:   81.00000   0.00000 101.00000  71.00000   0.00000
+ O1     O                  0.91411   0.25000   0.59971   3.18075   0.50000           0    0    3    4
+                 Codes:  121.00000   0.00000 141.00000 111.00000   0.00000
+ O2     O                  0.18860   0.25000   0.56471   3.60932   0.50000           0    0    3    4
+                 Codes:  161.00000   0.00000 181.00000 151.00000   0.00000
+ O3     O                  0.07090   0.00719   0.79924   4.03312   1.00000           0    0    3    8
+                 Codes:  201.00000 171.00000 131.00000 191.00000   0.00000
+
+ => IT IS ASSUMED THAT THE FIRST GIVEN SITE IS FULLY OCCUPIED 
+    OR THE FIRST AND SECOND ATOMS ARE IN THE SAME SITE WITH TOTAL FULL OCCUPATION
+  (If this is not the case, change the order of atoms to obtain correct values for the content of the unit cell)
+    The given occupation factors have been obtained mutiplying m/M by   1.0000
+      -> Atom: PB  ,  Chemical element: PB  Atomic Mass:   207.2000
+      -> Atom: S   ,  Chemical element: S   Atomic Mass:    32.0600
+      -> Atom: O   ,  Chemical element: O   Atomic Mass:    15.9994
+      -> Atom: O   ,  Chemical element: O   Atomic Mass:    15.9994
+      -> Atom: O   ,  Chemical element: O   Atomic Mass:    15.9994
+ => The given value of ATZ is       1213.03 the program has calculated:        1213.03
+    The value of ATZ given in the input PCR file will be used for quantitative analysis
+ => The chemical content of the unit cell is: 
+       4.0000 PB   +   4.0000 S    +   4.0000 O    +   4.0000 O    +   8.0000 O      
+ => The normalized site occupation numbers in % are: 
+     100.0000 Pb     :      100.0000 S      :      100.0000 O1     :      100.0000 O2     :      100.0000 O3       
+ => The density (volumic mass) of the compound is:    6.342 g/cm3
+
+ =>-------> PROFILE PARAMETERS FOR PATTERN:  1
+
+ => Overall scale factor:   0.636790E-04
+ => ETA (p-Voigt) OR M (Pearson VII):   0.0000
+ => Overall temperature factor:      0.00000
+ => Halfwidth U,V,W:     -0.14801     0.23472    -0.01649
+ => X and Y parameters:       0.0000      0.0000
+ => Direct cell parameters:    8.4657   5.3964   6.9524  90.0000  90.0000  90.0000
+ => Preferred orientation parameters:   1.0000  0.0000
+ => Asymmetry parameters     :     -0.44923    -0.01773     0.81802     0.00000
+ => Strain parameters        :      0.00000     0.00000     0.00000
+ => Size   parameters        :      0.00000     0.00000
+ => Further shape parameters (S_L and D_L):   0.00000   0.00000
+    S_L is source width/detector distance
+    D_L is detector width/detector distance
+
+ ==> CODEWORDS FOR PROFILE PARAMETERS of PATTERN#  1
+
+ => Overall scale factor:   11.000
+ => ETA (p-Voigt) OR M (Pearson VII):    0.000
+ => Overall temperature factor:    0.000
+ => Halfwidth U,V,W:   21.000  51.000  91.000
+ => X and Y parameters:    0.000   0.000
+ => Direct cell parameters:  211.000 221.000 231.000   0.000   0.000   0.000
+ => Preferred orientation parameters:    0.000   0.000
+ => Asymmetry parameters     :  271.000 291.000 281.000   0.000
+ => Strain parameters        :    0.000   0.000   0.000
+ => Size   parameters        :    0.000   0.000
+
+ => Cell constraints according to Laue symmetry: mmm  
+
+        Metric information:
+        -------------------
+
+ => Direct cell parameters:
+
+         a =       8.4657      b =       5.3964      c =       6.9524
+     alpha =       90.000   beta =       90.000  gamma =       90.000
+                        Direct Cell Volume =     317.6138
+
+ => Reciprocal cell parameters:
+
+         a*=     0.118124      b*=     0.185309      c*=     0.143835
+     alpha*=       90.000   beta*=       90.000  gamma*=       90.000
+                    Reciprocal Cell Volume =   0.00314848
+
+ => Direct and Reciprocal Metric Tensors:
+
+                   GD                                       GR
+     71.6674      0.0000      0.0000          0.013953    0.000000    0.000000
+      0.0000     29.1212      0.0000          0.000000    0.034339    0.000000
+      0.0000      0.0000     48.3358          0.000000    0.000000    0.020689
+
+ =>  Cartesian frame: z // c; y is in the bc-plane; x is y ^ z = a*  
+
+     Crystal_to_Orthonormal_Matrix              Orthonormal_to_Crystal Matrix
+              Cr_Orth_cel                               Orth_Cr_cel  
+      8.4657      0.0000      0.0000          0.118124   -0.000000   -0.000000
+      0.0000      5.3964      0.0000          0.000000    0.185309   -0.000000
+      0.0000      0.0000      6.9524          0.000000    0.000000    0.143835
+
+     Busing-Levy B-matrix: Hc=B.H            Inverse of the Busing-Levy B-matrix
+                BL_M                                      BL_Minv  
+    0.118124    0.000000    0.000000            8.4657     -0.0000     -0.0000
+    0.000000    0.185309   -0.000000            0.0000      5.3964      0.0000
+    0.000000    0.000000    0.143835            0.0000      0.0000      6.9524
+
+ => Laue symmetry mmm   will be used to generate HKL for pattern#   1
+ => Reflections generated between S(1/d)min:  0.0565 A-1 and S(1/d)max:  1.0157 A-1
+ =>                                    dmax: 17.7030 A   and      dmin:  0.9845 A
+ => The number of reflections generated is:    198
+ => The max. scatt. variable (gen.ref.) is:       102.9584
+ => Scattering coefficients from internal table
+
+
+ => X-ray scattering coeff. (A1, B1, A2,...C, f(0), Z, Dfp,Dfpp)
+
+ PB     31.0617   0.6902  13.0637   2.3576  18.4420   8.6180   5.9696  47.2579  13.4118  81.9488  82.0000  -4.8180   8.5050
+ S       6.9053   1.4679   5.2034  22.2151   1.4379   0.2536   1.5863  56.1720   0.8669  15.9998  16.0000   0.3190   0.5570
+ O       3.0485  13.2771   2.2868   5.7011   1.5463   0.3239   0.8670  32.9089   0.2508   7.9994   8.0000   0.0470   0.0320
+
+     --------------------------------------------------------------
+      SYMBOLIC NAMES AND INITIAL VALUES OF PARAMETERS TO BE VARIED:
+     --------------------------------------------------------------
+
+      ->  Parameter number    1   -> Symbolic Name:                                     Scale_ph1_pat1    0.63678999E-04
+      ->  Parameter number    2   -> Symbolic Name:                                    U-Cagl_ph1_pat1   -0.14801399    
+      ->  Parameter number    3   -> Symbolic Name:                                        Biso_Pb_ph1     3.4698300    
+      ->  Parameter number    4   -> Symbolic Name:                                           X_Pb_ph1    0.18705000    
+      ->  Parameter number    5   -> Symbolic Name:                                    V-Cagl_ph1_pat1    0.23472300    
+      ->  Parameter number    6   -> Symbolic Name:                                           Z_Pb_ph1    0.16502000    
+      ->  Parameter number    7   -> Symbolic Name:                                         Biso_S_ph1     5.6396098    
+      ->  Parameter number    8   -> Symbolic Name:                                            X_S_ph1    0.63929997E-01
+      ->  Parameter number    9   -> Symbolic Name:                                    W-Cagl_ph1_pat1   -0.16488001E-01
+      ->  Parameter number   10   -> Symbolic Name:                                            Z_S_ph1    0.68356001    
+      ->  Parameter number   11   -> Symbolic Name:                                        Biso_O1_ph1     3.1807499    
+      ->  Parameter number   12   -> Symbolic Name:                                           X_O1_ph1    0.91411000    
+      ->  Parameter number   13   -> Symbolic Name:                                           Z_O3_ph1    0.79923999    
+      ->  Parameter number   14   -> Symbolic Name:                                           Z_O1_ph1    0.59970999    
+      ->  Parameter number   15   -> Symbolic Name:                                        Biso_O2_ph1     3.6093199    
+      ->  Parameter number   16   -> Symbolic Name:                                           X_O2_ph1    0.18860000    
+      ->  Parameter number   17   -> Symbolic Name:                                           Y_O3_ph1    0.71899998E-02
+      ->  Parameter number   18   -> Symbolic Name:                                           Z_O2_ph1    0.56471002    
+      ->  Parameter number   19   -> Symbolic Name:                                        Biso_O3_ph1     4.0331202    
+      ->  Parameter number   20   -> Symbolic Name:                                           X_O3_ph1    0.70900001E-01
+      ->  Parameter number   21   -> Symbolic Name:                                    Cell_A_ph1_pat1     8.4656591    
+      ->  Parameter number   22   -> Symbolic Name:                                    Cell_B_ph1_pat1     5.3964019    
+      ->  Parameter number   23   -> Symbolic Name:                                    Cell_C_ph1_pat1     6.9523940    
+      ->  Parameter number   24   -> Symbolic Name:                                          Zero_pat1    0.47279999E-01
+      ->  Parameter number   25   -> Symbolic Name:                                         Bck_0_pat1     18.955999    
+      ->  Parameter number   26   -> Symbolic Name:                                         Bck_1_pat1     7.4190001    
+      ->  Parameter number   27   -> Symbolic Name:                                     Asym1_ph1_pat1   -0.44922999    
+      ->  Parameter number   28   -> Symbolic Name:                                     Asym3_ph1_pat1    0.81801999    
+      ->  Parameter number   29   -> Symbolic Name:                                     Asym2_ph1_pat1   -0.17729999E-01
+  
+ => Zero counts at step no.      2 at 2theta/TOF/E(KeV):         5.0200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.      3 at 2theta/TOF/E(KeV):         5.0400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.      5 at 2theta/TOF/E(KeV):         5.0800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.      8 at 2theta/TOF/E(KeV):         5.1400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     10 at 2theta/TOF/E(KeV):         5.1800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     12 at 2theta/TOF/E(KeV):         5.2200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     14 at 2theta/TOF/E(KeV):         5.2600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     16 at 2theta/TOF/E(KeV):         5.3000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     17 at 2theta/TOF/E(KeV):         5.3200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     18 at 2theta/TOF/E(KeV):         5.3400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     19 at 2theta/TOF/E(KeV):         5.3600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     20 at 2theta/TOF/E(KeV):         5.3800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     21 at 2theta/TOF/E(KeV):         5.4000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     24 at 2theta/TOF/E(KeV):         5.4600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     25 at 2theta/TOF/E(KeV):         5.4800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     26 at 2theta/TOF/E(KeV):         5.5000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     28 at 2theta/TOF/E(KeV):         5.5400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     29 at 2theta/TOF/E(KeV):         5.5600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     30 at 2theta/TOF/E(KeV):         5.5800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     34 at 2theta/TOF/E(KeV):         5.6600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     37 at 2theta/TOF/E(KeV):         5.7200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     38 at 2theta/TOF/E(KeV):         5.7400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     39 at 2theta/TOF/E(KeV):         5.7600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     41 at 2theta/TOF/E(KeV):         5.8000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     43 at 2theta/TOF/E(KeV):         5.8400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     45 at 2theta/TOF/E(KeV):         5.8800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     46 at 2theta/TOF/E(KeV):         5.9000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     48 at 2theta/TOF/E(KeV):         5.9400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     49 at 2theta/TOF/E(KeV):         5.9600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     50 at 2theta/TOF/E(KeV):         5.9800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     51 at 2theta/TOF/E(KeV):         6.0000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     52 at 2theta/TOF/E(KeV):         6.0200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     56 at 2theta/TOF/E(KeV):         6.1000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     57 at 2theta/TOF/E(KeV):         6.1200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     59 at 2theta/TOF/E(KeV):         6.1600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     60 at 2theta/TOF/E(KeV):         6.1800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     61 at 2theta/TOF/E(KeV):         6.2000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     62 at 2theta/TOF/E(KeV):         6.2200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     63 at 2theta/TOF/E(KeV):         6.2400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     64 at 2theta/TOF/E(KeV):         6.2600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     66 at 2theta/TOF/E(KeV):         6.3000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     67 at 2theta/TOF/E(KeV):         6.3200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     68 at 2theta/TOF/E(KeV):         6.3400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     70 at 2theta/TOF/E(KeV):         6.3800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     72 at 2theta/TOF/E(KeV):         6.4200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     73 at 2theta/TOF/E(KeV):         6.4400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     74 at 2theta/TOF/E(KeV):         6.4600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     76 at 2theta/TOF/E(KeV):         6.5000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     77 at 2theta/TOF/E(KeV):         6.5200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     78 at 2theta/TOF/E(KeV):         6.5400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     79 at 2theta/TOF/E(KeV):         6.5600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     80 at 2theta/TOF/E(KeV):         6.5800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     83 at 2theta/TOF/E(KeV):         6.6400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     84 at 2theta/TOF/E(KeV):         6.6600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     86 at 2theta/TOF/E(KeV):         6.7000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     87 at 2theta/TOF/E(KeV):         6.7200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     89 at 2theta/TOF/E(KeV):         6.7600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     90 at 2theta/TOF/E(KeV):         6.7800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     91 at 2theta/TOF/E(KeV):         6.8000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     92 at 2theta/TOF/E(KeV):         6.8200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     93 at 2theta/TOF/E(KeV):         6.8400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     96 at 2theta/TOF/E(KeV):         6.9000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     98 at 2theta/TOF/E(KeV):         6.9400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.     99 at 2theta/TOF/E(KeV):         6.9600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    100 at 2theta/TOF/E(KeV):         6.9800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    103 at 2theta/TOF/E(KeV):         7.0400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    104 at 2theta/TOF/E(KeV):         7.0600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    105 at 2theta/TOF/E(KeV):         7.0800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    106 at 2theta/TOF/E(KeV):         7.1000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    107 at 2theta/TOF/E(KeV):         7.1200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    108 at 2theta/TOF/E(KeV):         7.1400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    109 at 2theta/TOF/E(KeV):         7.1600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    110 at 2theta/TOF/E(KeV):         7.1800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    115 at 2theta/TOF/E(KeV):         7.2800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    117 at 2theta/TOF/E(KeV):         7.3200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    118 at 2theta/TOF/E(KeV):         7.3400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    119 at 2theta/TOF/E(KeV):         7.3600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    121 at 2theta/TOF/E(KeV):         7.4000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    122 at 2theta/TOF/E(KeV):         7.4200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    123 at 2theta/TOF/E(KeV):         7.4400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    124 at 2theta/TOF/E(KeV):         7.4600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    125 at 2theta/TOF/E(KeV):         7.4800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    126 at 2theta/TOF/E(KeV):         7.5000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    128 at 2theta/TOF/E(KeV):         7.5400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    129 at 2theta/TOF/E(KeV):         7.5600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    130 at 2theta/TOF/E(KeV):         7.5800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    131 at 2theta/TOF/E(KeV):         7.6000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    132 at 2theta/TOF/E(KeV):         7.6200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    133 at 2theta/TOF/E(KeV):         7.6400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    134 at 2theta/TOF/E(KeV):         7.6600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    136 at 2theta/TOF/E(KeV):         7.7000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    138 at 2theta/TOF/E(KeV):         7.7400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    139 at 2theta/TOF/E(KeV):         7.7600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    140 at 2theta/TOF/E(KeV):         7.7800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    142 at 2theta/TOF/E(KeV):         7.8200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    144 at 2theta/TOF/E(KeV):         7.8600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    145 at 2theta/TOF/E(KeV):         7.8800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    146 at 2theta/TOF/E(KeV):         7.9000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    147 at 2theta/TOF/E(KeV):         7.9200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    148 at 2theta/TOF/E(KeV):         7.9400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    150 at 2theta/TOF/E(KeV):         7.9800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    152 at 2theta/TOF/E(KeV):         8.0200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    153 at 2theta/TOF/E(KeV):         8.0400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    155 at 2theta/TOF/E(KeV):         8.0800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    156 at 2theta/TOF/E(KeV):         8.1000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    158 at 2theta/TOF/E(KeV):         8.1400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    160 at 2theta/TOF/E(KeV):         8.1800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    161 at 2theta/TOF/E(KeV):         8.2000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    162 at 2theta/TOF/E(KeV):         8.2200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    163 at 2theta/TOF/E(KeV):         8.2400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    164 at 2theta/TOF/E(KeV):         8.2600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    166 at 2theta/TOF/E(KeV):         8.3000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    167 at 2theta/TOF/E(KeV):         8.3200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    169 at 2theta/TOF/E(KeV):         8.3600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    170 at 2theta/TOF/E(KeV):         8.3800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    172 at 2theta/TOF/E(KeV):         8.4200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    174 at 2theta/TOF/E(KeV):         8.4600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    176 at 2theta/TOF/E(KeV):         8.5000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    178 at 2theta/TOF/E(KeV):         8.5400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    180 at 2theta/TOF/E(KeV):         8.5800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    181 at 2theta/TOF/E(KeV):         8.6000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    182 at 2theta/TOF/E(KeV):         8.6200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    183 at 2theta/TOF/E(KeV):         8.6400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    184 at 2theta/TOF/E(KeV):         8.6600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    185 at 2theta/TOF/E(KeV):         8.6800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    187 at 2theta/TOF/E(KeV):         8.7200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    195 at 2theta/TOF/E(KeV):         8.8800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    196 at 2theta/TOF/E(KeV):         8.9000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    197 at 2theta/TOF/E(KeV):         8.9200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    198 at 2theta/TOF/E(KeV):         8.9400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    199 at 2theta/TOF/E(KeV):         8.9600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    202 at 2theta/TOF/E(KeV):         9.0200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    204 at 2theta/TOF/E(KeV):         9.0600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    205 at 2theta/TOF/E(KeV):         9.0800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    207 at 2theta/TOF/E(KeV):         9.1200  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    208 at 2theta/TOF/E(KeV):         9.1400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    213 at 2theta/TOF/E(KeV):         9.2400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    218 at 2theta/TOF/E(KeV):         9.3400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    225 at 2theta/TOF/E(KeV):         9.4800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    226 at 2theta/TOF/E(KeV):         9.5000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    234 at 2theta/TOF/E(KeV):         9.6600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    235 at 2theta/TOF/E(KeV):         9.6800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    245 at 2theta/TOF/E(KeV):         9.8800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    249 at 2theta/TOF/E(KeV):         9.9600  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    256 at 2theta/TOF/E(KeV):        10.1000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    258 at 2theta/TOF/E(KeV):        10.1400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    381 at 2theta/TOF/E(KeV):        12.6000  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    445 at 2theta/TOF/E(KeV):        13.8800  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    558 at 2theta/TOF/E(KeV):        16.1400  Intensity fixed to 1.0 and variance to 1E6
+ => Zero counts at step no.    634 at 2theta/TOF/E(KeV):        17.6600  Intensity fixed to 1.0 and variance to 1E6
+ 
+ => No optimization for routine tasks
+ ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ => CYCLE No.:    1
+ ---------------------------------------------------------------------------------------
+ => Phase  1 Name:  PbSO4                       VARY xyz b          BKG blue             
+ ---------------------------------------------------------------------------------------
+ => New parameters, shifts, and standard deviations
+
+ Atom        x       dx      sx       y       dy      sy       z       dz      sz       B       dB      sB      occ.    docc.   socc.
+
+ Pb       0.18705-0.00000 0.00039  0.25000 0.00000 0.00000  0.16502-0.00000 0.00057  3.46928-0.00055 0.11329  0.50000 0.00000 0.00000
+ S        0.06392-0.00001 0.00315  0.25000 0.00000 0.00000  0.68353-0.00003 0.00390  5.64020 0.00059 0.70210  0.50000 0.00000 0.00000
+ O1       0.91410-0.00001 0.00499  0.25000 0.00000 0.00000  0.59967-0.00004 0.00608  3.17869-0.00206 1.00000  0.50000 0.00000 0.00000
+ O2       0.18859-0.00001 0.00586  0.25000 0.00000 0.00000  0.56473 0.00002 0.00714  3.60825-0.00107 1.00000  0.50000 0.00000 0.00000
+ O3       0.07089-0.00001 0.00360  0.00718-0.00001 0.00477  0.79926 0.00002 0.00508  4.02932-0.00380 0.96266  1.00000 0.00000 0.00000
+
+ ==> PROFILE PARAMETERS FOR PATTERN#  1
+
+ => Overall scale factor:      0.000063678    -0.000000001     0.000000776
+ => Eta(p-Voigt) or m(Pearson VII):   0.000000  0.000000  0.000000
+ => Overall tem. factor:     0.000000    0.000000    0.000000
+ => Halfwidth parameters: 
+        -0.148436   -0.000422    0.025649
+         0.235128    0.000405    0.022143
+        -0.016536   -0.000048    0.004017
+ => Cell parameters: 
+        8.465696    0.000037    0.001036
+        5.396404    0.000002    0.000668
+        6.952404    0.000010    0.000860
+       90.000000    0.000000    0.000000
+       90.000000    0.000000    0.000000
+       90.000000    0.000000    0.000000
+ => Preferred orientation: 
+         1.000000    0.000000    0.000000
+         0.000000    0.000000    0.000000
+ => Asymmetry parameters: 
+        -0.449033    0.000197    0.139273
+        -0.017603    0.000127    0.021774
+         0.817621   -0.000399    0.333686
+         0.000000    0.000000    0.000000
+ => X and Y parameters: 
+         0.000000    0.000000    0.000000
+         0.000000    0.000000    0.000000
+ => Strain parameters: 
+         0.000000    0.000000    0.000000
+         0.000000    0.000000    0.000000
+         0.000000    0.000000    0.000000
+ => Size   parameters (G,L): 
+         0.000000    0.000000    0.000000
+         0.000000    0.000000    0.000000
+ => Further shape parameters (S_L and D_L): 
+       0.000000  0.000000  0.000000
+       0.000000  0.000000  0.000000
+
+ ==> GLOBAL PARAMETERS FOR PATTERN#  1
+
+
+ => Zero-point:     0.0474    0.0001    0.0020
+ => Background Polynomial Parameters ==>
+       18.955    -0.14314E-02 0.20095    
+       7.4185    -0.47712E-03 0.27901    
+       0.0000      0.0000      0.0000    
+       0.0000      0.0000      0.0000    
+       0.0000      0.0000      0.0000    
+       0.0000      0.0000      0.0000    
+
+ => Cos( theta)-shift parameter :   0.0000  0.0000  0.0000
+ => Sin(2theta)-shift parameter :   0.0000  0.0000  0.0000
+
+ ==> RELIABILITY FACTORS WITH ALL NON-EXCLUDED POINTS FOR PATTERN:  1
+
+ => R-Factors:   22.3      31.5     Chi2:  5.39     DW-Stat.:  0.4635   Patt#:  1
+ => Expected :            13.6                                1.9204
+ => Deviance : 0.373E+05     Dev*:   8.280    
+ => GoF-index:  2.3         Sqrt(Residual/N)
+ => N-P+C:  4471
+
+ =>    SumYdif       SumYobs      SumYcal      SumwYobsSQ     Residual    Condition
+     0.5431E+05    0.2433E+06    0.2192E+06    0.2433E+06    0.2412E+05    0.8943E+13
+
+
+ => Conventional Rietveld Rp,Rwp,Re and Chi2:   37.3      44.5      19.2      5.394    
+ => (Values obtained using Ynet, but true sigma(y))
+ =>  SumYnet, Sum(w Ynet**2):     0.1454E+06    0.1218E+06
+
+
+ ==> RELIABILITY FACTORS FOR POINTS WITH BRAGG CONTRIBUTIONS FOR PATTERN:  1
+
+ => R-Factors:   21.3      29.1     Chi2:  5.14     DW-Stat.:  0.5688   Patt#:
+ => Expected :            12.8                                1.9151
+ => Deviance : 0.330E+05     Dev*:   8.596    
+ => GoF-index:  2.3         Sqrt(Residual/N)
+ => N-P+C:  3821
+
+ =>    SumYdif       SumYobs      SumYcal      SumwYobsSQ     Residual    Condition
+     0.4957E+05    0.2324E+06    0.2094E+06    0.2324E+06    0.1965E+05    0.8943E+13
+
+
+ => Conventional Rietveld Rp,Rwp,Re and Chi2:   34.3      40.9      18.0      5.144    
+ => (Values obtained using Ynet, but true sigma(y))
+ =>  SumYnet, Sum(w Ynet**2):     0.1444E+06    0.1173E+06
+
+
+ => Global user-weigthed Chi2 (Bragg contrib.):   5.14    
+
+ => ---------> Pattern#  1
+ => Phase:  1
+ =>    Bragg R-factor:  18.7    
+ =>    RF-factor     :  18.8    
+
+
+   Standard deviations have to be multiplied by: 4.3353
+   (correlated residuals) See references:
+  -J.F.Berar & P.Lelann, J. Appl. Cryst. 24, 1-5 (1991) 
+  -J.F.Berar, Acc. in Pow. Diff. II,NIST Sp.Pub. 846, 63(1992) 
+
+ ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+ => CYCLE No.:    1
+ =>  Convergence reached at this CYCLE !!!!
+ =>  Parameter shifts set to zero
+ ---------------------------------------------------------------------------------------
+ => Phase  1 Name:  PbSO4                       VARY xyz b          BKG blue             
+ ---------------------------------------------------------------------------------------
+ => New parameters, shifts, and standard deviations
+
+ Atom        x       dx      sx       y       dy      sy       z       dz      sz       B       dB      sB      occ.    docc.   socc.
+
+ Pb       0.18705 0.00000 0.00039  0.25000 0.00000 0.00000  0.16502 0.00000 0.00057  3.46928 0.00000 0.11329  0.50000 0.00000 0.00000
+ S        0.06392 0.00000 0.00315  0.25000 0.00000 0.00000  0.68353 0.00000 0.00390  5.64020 0.00000 0.70210  0.50000 0.00000 0.00000
+ O1       0.91410 0.00000 0.00499  0.25000 0.00000 0.00000  0.59967 0.00000 0.00608  3.17869 0.00000 1.00000  0.50000 0.00000 0.00000
+ O2       0.18859 0.00000 0.00586  0.25000 0.00000 0.00000  0.56473 0.00000 0.00714  3.60825 0.00000 1.00000  0.50000 0.00000 0.00000
+ O3       0.07089 0.00000 0.00360  0.00718 0.00000 0.00477  0.79926 0.00000 0.00508  4.02932 0.00000 0.96266  1.00000 0.00000 0.00000
+
+ ==> PROFILE PARAMETERS FOR PATTERN#  1
+
+ => Overall scale factor:      0.000063678     0.000000000     0.000000776
+ => Eta(p-Voigt) or m(Pearson VII):   0.000000  0.000000  0.000000
+ => Overall tem. factor:     0.000000    0.000000    0.000000
+ => Halfwidth parameters: 
+        -0.148436    0.000000    0.025649
+         0.235128    0.000000    0.022143
+        -0.016536    0.000000    0.004017
+ => Cell parameters: 
+        8.465696    0.000000    0.001036
+        5.396404    0.000000    0.000668
+        6.952404    0.000000    0.000860
+       90.000000    0.000000    0.000000
+       90.000000    0.000000    0.000000
+       90.000000    0.000000    0.000000
+ => Preferred orientation: 
+         1.000000    0.000000    0.000000
+         0.000000    0.000000    0.000000
+ => Asymmetry parameters: 
+        -0.449033    0.000000    0.139273
+        -0.017603    0.000000    0.021774
+         0.817621    0.000000    0.333686
+         0.000000    0.000000    0.000000
+ => X and Y parameters: 
+         0.000000    0.000000    0.000000
+         0.000000    0.000000    0.000000
+ => Strain parameters: 
+         0.000000    0.000000    0.000000
+         0.000000    0.000000    0.000000
+         0.000000    0.000000    0.000000
+ => Size   parameters (G,L): 
+         0.000000    0.000000    0.000000
+         0.000000    0.000000    0.000000
+ => Further shape parameters (S_L and D_L): 
+       0.000000  0.000000  0.000000
+       0.000000  0.000000  0.000000
+
+ ==> GLOBAL PARAMETERS FOR PATTERN#  1
+
+
+ => Zero-point:     0.0474    0.0000    0.0020
+ => Background Polynomial Parameters ==>
+       18.955      0.0000     0.20095    
+       7.4185      0.0000     0.27901    
+       0.0000      0.0000      0.0000    
+       0.0000      0.0000      0.0000    
+       0.0000      0.0000      0.0000    
+       0.0000      0.0000      0.0000    
+
+ => Cos( theta)-shift parameter :   0.0000  0.0000  0.0000
+ => Sin(2theta)-shift parameter :   0.0000  0.0000  0.0000
+
+ ==> RELIABILITY FACTORS WITH ALL NON-EXCLUDED POINTS FOR PATTERN:  1
+
+ => R-Factors:   22.3      31.5     Chi2:  5.39     DW-Stat.:  0.4635   Patt#:  1
+ => Expected :            13.6                                1.9204
+ => Deviance : 0.373E+05     Dev*:   8.280    
+ => GoF-index:  2.3         Sqrt(Residual/N)
+ => N-P+C:  4471
+
+ =>    SumYdif       SumYobs      SumYcal      SumwYobsSQ     Residual    Condition
+     0.5431E+05    0.2433E+06    0.2192E+06    0.2433E+06    0.2412E+05    0.8943E+13
+
+
+ => Conventional Rietveld Rp,Rwp,Re and Chi2:   37.3      44.5      19.2      5.394    
+ => (Values obtained using Ynet, but true sigma(y))
+ =>  SumYnet, Sum(w Ynet**2):     0.1454E+06    0.1218E+06
+
+ => N-sigma of the GoF:      207.756
+
+ ==> RELIABILITY FACTORS FOR POINTS WITH BRAGG CONTRIBUTIONS FOR PATTERN:  1
+
+ => R-Factors:   21.3      29.1     Chi2:  5.14     DW-Stat.:  0.5688   Patt#:
+ => Expected :            12.8                                1.9151
+ => Deviance : 0.330E+05     Dev*:   8.596    
+ => GoF-index:  2.3         Sqrt(Residual/N)
+ => N-P+C:  3821
+
+ =>    SumYdif       SumYobs      SumYcal      SumwYobsSQ     Residual    Condition
+     0.4957E+05    0.2324E+06    0.2094E+06    0.2324E+06    0.1965E+05    0.8943E+13
+
+
+ => Conventional Rietveld Rp,Rwp,Re and Chi2:   34.3      40.9      18.0      5.144    
+ => (Values obtained using Ynet, but true sigma(y))
+ =>  SumYnet, Sum(w Ynet**2):     0.1444E+06    0.1173E+06
+
+ => N-sigma of the GoF:      181.114
+
+ => Global user-weigthed Chi2 (Bragg contrib.):   6.31    
+
+ => ---------> Pattern#  1
+ => Phase:  1
+ =>    Bragg R-factor:  18.7    
+ =>    RF-factor     :  18.8    
+
+ --------------------------------------------------------------------------------------------------------------
+ Pattern#  1 Phase No.:   1 Phase name:  PbSO4                       V
+ --------------------------------------------------------------------------------------------------------------
+
+     -----------------------------------------------------
+     BRAGG R-Factors and weight fractions for Pattern #  1
+     -----------------------------------------------------
+
+ => Phase:  1      PbSO4                       VARY xyz b          BKG blue
+ => Bragg R-factor:   18.6       Vol:  317.616( 0.068)  Fract(%):  100.00( 1.72)
+ => Rf-factor=  18.7             ATZ:        1213.030   Brindley:  1.0000
+
+     -----------------------------------------------------------------
+      SYMBOLIC NAMES AND FINAL VALUES AND SIGMA OF REFINED PARAMETERS:
+     -----------------------------------------------------------------
+
+      ->  Parameter number    1 :                                     Scale_ph1_pat1    0.63677828E-04( +/-    0.77622235E-06 )
+      ->  Parameter number    2 :                                    U-Cagl_ph1_pat1   -0.14843594    ( +/-    0.25648655E-01 )
+      ->  Parameter number    3 :                                        Biso_Pb_ph1     3.4692764    ( +/-    0.11329049     )
+      ->  Parameter number    4 :                                           X_Pb_ph1    0.18704848    ( +/-    0.38704474E-03 )
+      ->  Parameter number    5 :                                    V-Cagl_ph1_pat1    0.23512802    ( +/-    0.22143031E-01 )
+      ->  Parameter number    6 :                                           Z_Pb_ph1    0.16501503    ( +/-    0.57164987E-03 )
+      ->  Parameter number    7 :                                         Biso_S_ph1     5.6402001    ( +/-    0.70210022     )
+      ->  Parameter number    8 :                                            X_S_ph1    0.63924767E-01( +/-    0.31463339E-02 )
+      ->  Parameter number    9 :                                    W-Cagl_ph1_pat1   -0.16535535E-01( +/-    0.40173111E-02 )
+      ->  Parameter number   10 :                                            Z_S_ph1    0.68353379    ( +/-    0.39036593E-02 )
+      ->  Parameter number   11 :                                        Biso_O1_ph1     3.1786933    ( +/-     1.3273890     )
+      ->  Parameter number   12 :                                           X_O1_ph1    0.91410458    ( +/-    0.49901120E-02 )
+      ->  Parameter number   13 :                                           Z_O3_ph1    0.79926187    ( +/-    0.50848112E-02 )
+      ->  Parameter number   14 :                                           Z_O1_ph1    0.59967268    ( +/-    0.60792039E-02 )
+      ->  Parameter number   15 :                                        Biso_O2_ph1     3.6082454    ( +/-     1.3120517     )
+      ->  Parameter number   16 :                                           X_O2_ph1    0.18859363    ( +/-    0.58628134E-02 )
+      ->  Parameter number   17 :                                           Y_O3_ph1    0.71815574E-02( +/-    0.47712177E-02 )
+      ->  Parameter number   18 :                                           Z_O2_ph1    0.56473356    ( +/-    0.71400069E-02 )
+      ->  Parameter number   19 :                                        Biso_O3_ph1     4.0293221    ( +/-    0.96265632     )
+      ->  Parameter number   20 :                                           X_O3_ph1    0.70888638E-01( +/-    0.36017066E-02 )
+      ->  Parameter number   21 :                                    Cell_A_ph1_pat1     8.4656963    ( +/-    0.10364283E-02 )
+      ->  Parameter number   22 :                                    Cell_B_ph1_pat1     5.3964038    ( +/-    0.66753372E-03 )
+      ->  Parameter number   23 :                                    Cell_C_ph1_pat1     6.9524045    ( +/-    0.85984799E-03 )
+      ->  Parameter number   24 :                                          Zero_pat1    0.47365580E-01( +/-    0.19885341E-02 )
+      ->  Parameter number   25 :                                         Bck_0_pat1     18.954569    ( +/-    0.20095287     )
+      ->  Parameter number   26 :                                         Bck_1_pat1     7.4185228    ( +/-    0.27900758     )
+      ->  Parameter number   27 :                                     Asym1_ph1_pat1   -0.44903338    ( +/-    0.13927263     )
+      ->  Parameter number   28 :                                     Asym3_ph1_pat1    0.81762081    ( +/-    0.33368638     )
+      ->  Parameter number   29 :                                     Asym2_ph1_pat1   -0.17603246E-01( +/-    0.21773601E-01 )
+
+ ------------------------------------------------------------------
+ => Number of bytes for floating point variables: 4
+ => Dimensions of dynamic allocated arrays in this run of FullProf:
+ ------------------------------------------------------------------
+
+ => Total approximate array memory (dynamic + static): 487755989 bytes
+
+    MaxPOINT=    60000 Max.num. of points(+int. Inten.)/diffraction pattern       
+    MaxREFLT=    20000 Max.num. of reflections/diffraction pattern               
+    MaxPARAM=      300 Max.num. of refinable parameters                          
+    MaxOVERL=    18096 Max.num. of overlapping reflections                       
+
+ ----------------------------------------------------------
+ => Number of bytes for floating point arrays: 4
+ => Dimensions of fixed arrays in this release of FullProf:
+ ----------------------------------------------------------
+
+    NPATT   =       80 Max.num. of powder diffraction patterns                    
+    NATS    =      830 Max.num. of atoms (all kind) in asymmetric unit            
+    MPAR    =     1800 Max.num. of non atomic parameters/phase                    
+    IEXCL   =       30 Max.num. of excluded regions                               
+    IBACP   =      377 Max.num. of background points for interpolation            
+    NPHT    =       16 Max.num. of phases                                         
+    NMAGM   =        8 Max.num. of rotation-matrices sets for magnetic structure  
+    NBASIS  =       12 Max.num. of basis functions associated to a single atom    
+    NIREPS  =        9 Max.num. of irreducible representations to be combined     
+    N_EQ    =      384 Max.num. of user-supplied symmetry operators/propagation vectors
+    NGL     =      400 Max.num. of global parameters/diffraction pattern          
+    N_LINC  =       30 Max.num. of global linear restraints                        
+    NAT_P   =       68 Max.num. of atomic parameters per atom                     
+    NCONST  =      500 Max.num. of slack constraints per phase                    
+    N_SPE   =       30 Max.num. of different chemical species                     
+    N_FORM  =       60 Max.num. of scattering factor values in a table            
+    NPR     =      150 Max.num. of points defining a numerical profile            
+    INPR    =       25 Max.num. of different numerical peak shapes                
+    NPRC    =      150 Max.num. of terms in the table for correcting intensities  
+    NSOL    =       10 Max.num. of solutions to be stored in Montecarlo searchs   
+
+ 
+              CPU Time:     5.637 seconds
+                            0.094 minutes
+
+ => Run finished at:     Date: 04/08/2023  Time: 14:02:22.172                              

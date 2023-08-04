@@ -1,0 +1,330 @@
+Refinement program                                                                                                  page=  1
+structure :                                                                                                14:02:15 04-08-23 
+
+The following lines were read as a control data : 
+=>dolebail 1<=                                                                       
+
+******************
+* Run parameters *
+******************
+
+Profile refinement (le Bail) in 10 cycles will be performed
+The refinement will stop if max(change/s.u.)<0.05
+The damping factor will be reduced by the factor 2 if wRp is larger by more than 10% from the previous value
+In the case that in 3 consecutive cycles refinement converge, the damping factor will change back
+Atoms reaching Uiso>0.2 will be disabled from the refinement
+Calculation of sig(I) is as minimum from profile fit and error propagation formula                                              
+Only not-matching reflections flagged by # (see below) will be printed
+Print of reflections after last cycle of refinement
+Reflections with I<3sig(I) will be classified as unobserved - flag *
+Reflections with |Fo-Fc|>3sig(I) will be flagged by #
+Correlations larger than 0.9 will be printed
+Automatic procedure for setting of refinement keys will be applied
+Automatic procedure for setting of restrictions on atoms/molecules at special positions will applied
+
+*********************
+* Powder parameters *
+*********************
+
+Manual backgrand will be used
+Asymmetry correction by Simpson method will be applied
+Pseudo-Voigt profile function
+The profile is cut outside 12*FWHM range
+Weighting function will be used during leBail decomposition
+
+*************
+* Radiation *
+*************
+
+Radiation type: X-ray tube
+Wave length - average: 1.54180, KAlpha1: 1.54051, KAlpha2=1.54433, I(KAlpa2)/I(KAlpa1): 0.497
+Monochromator - parallel setting, glancing angle: 13.29
+
+******************
+* Structure data *
+******************
+
+Cell parameters       :     8.4674    5.3961    6.9536    90.000    90.000    90.000    Volume :      317.7
+Reciprocal parameters :   0.118100  0.185320  0.143811    90.000    90.000    90.000    Volume :   0.003147
+
+Centrosymmetric space group: Pnma  Number : 62
+
+List of centring vectors:
+
+  0.000000  0.000000  0.000000
+
+Refinement program                                                                                                  page=  2
+structure :                                                                                                14:02:15 04-08-23 
+
+
+Symmetry operators:
+
+     x      y      z
+    -x+1/2 -y      z+1/2
+    -x      y+1/2 -z
+     x+1/2 -y+1/2 -z+1/2
+    -x     -y     -z
+     x+1/2  y     -z+1/2
+     x     -y+1/2  z
+    -x+1/2  y+1/2  z+1/2
+
+F(000)  for X-rays    :       0.0000
+F(000)  for neutrons  :       0.0000
+
+
+Equations induced by symmetry :
+
+alpha=90
+beta=90
+gamma=90
+
+*************************************
+* User defined constrains/restrains *
+*************************************
+
+None
+
+******************************
+* User defined keep commands *
+******************************
+
+None
+
+Last screen information window:
+
+--------------------------------------------------------------------------
+|Profile R factors :[4601/9+1],    Damping factor:   1.0000              |
+|GOF   =  1.69 Rp    = 15.20 wRp    = 23.15                              |
+|Last wRp: 22.31 22.22 22.19 22.36 22.34 22.21 22.22 22.60               |
+|Maximum change/s.u. :   -8.7969 for asym1                               |
+--------------------------------------------------------------------------
+
+**********************
+* R-factors overview *
+**********************
+
+
+
+
+
+
+Refinement program                                                                                                  page=  3
+structure :                                                                                                14:02:15 04-08-23 
+
+Cycle    Rp      wRp     cRp    cwRp   npnts   nppwd      np  npnts/np    damp   gof av ch/su       max ch/su                   
+  5    14.37   22.36   25.09   33.85    4601       9      10   460.100 1.0000   1.63   4.7881    -9.5053 asym1                  
+  6    14.41   22.34   25.17   33.81    4601       9      10   460.100 1.0000   1.63   2.0535     3.1789 asym1                  
+  7    14.23   22.21   24.85   33.61    4601       9      10   460.100 1.0000   1.62   1.0291     1.4309 shift                  
+  8    14.24   22.22   24.86   33.63    4601       9      10   460.100 1.0000   1.62   1.7260     2.4263 asym1                  
+  9    14.54   22.60   25.40   34.20    4601       9      10   460.100 1.0000   1.65   4.4412    -8.7969 asym1                  
+ 10    15.20   23.15   26.55   35.03    4601       9      10   460.100                                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refinement program                                                                                                  page=  4
+structure :                                                                                                14:02:15 04-08-23 
+
+
+********************
+* Changes overview *
+********************
+
+More realisitic s.u.'s can be achieved by applying the Berar's factor :    5.098
+The correction hasn't been applied
+
+           PrfScale  BckgScale
+   5        0.228835* 1.000000  -1.28
+   6        0.228745* 1.000000  -1.12
+   7        0.228489* 1.000000  -1.41
+   8        0.229211* 1.000000  -2.05
+   9        0.229455* 1.000000  -2.59
+  10        0.232264  1.000000
+  su        0.000638  0.000000
+================================================================================================================================
+           TOverall   sclam/2
+   5        0.000000  0.000000   0.00
+   6        0.000000  0.000000   0.00
+   7        0.000000  0.000000   0.00
+   8        0.000000  0.000000   0.00
+   9        0.000000  0.000000   0.00
+  10        0.000000  0.000000
+  su        0.000000  0.000000
+================================================================================================================================
+             shift     sycos     sysin
+   5       -8.373669* 0.000000  0.000000   8.58
+   6       -5.023537* 0.000000  0.000000  -2.95
+   7       -7.181632* 0.000000  0.000000   1.43
+   8       -6.327067* 0.000000  0.000000  -2.32
+   9       -7.956566* 0.000000  0.000000   7.60
+  10       -4.883940  0.000000  0.000000
+  su        0.404392  0.000000  0.000000
+================================================================================================================================
+             asym1
+   5        2.655864* -9.51
+   6       -0.827941*  3.18
+   7        1.406162* -1.37
+   8        0.625925*  2.43
+   9        2.231027* -8.80
+  10       -1.006710
+  su        0.368052
+================================================================================================================================
+
+
+
+
+
+
+
+
+Refinement program                                                                                                  page=  5
+structure :                                                                                                14:02:15 04-08-23 
+
+               a         b         c       alpha     beta      gamma     Volume    Density
+   5        8.470364  5.397912  6.955843* 90.00000  90.00000  90.00000  318.0370  0.000000  -6.10
+   6        8.466669  5.395627  6.952827* 90.00000  90.00000  90.00000  317.6259  0.000000   2.62
+   7        8.469027  5.397091  6.954759* 90.00000  90.00000  90.00000  317.8889  0.000000  -1.22
+   8        8.468060  5.396504  6.953980* 90.00000  90.00000  90.00000  317.7824  0.000000   2.07
+   9        8.469892  5.397632  6.955474* 90.00000  90.00000  90.00000  317.9859  0.000000  -5.32
+  10        8.466523  5.395564  6.952746  90.00000  90.00000  90.00000  317.6130  0.000000
+  su        0.000643  0.000405  0.000513   0.00000   0.00000   0.00000    0.0619  0.000000
+================================================================================================================================
+              GU        GV        GW        GP
+   5       -32.28328* 0.000000  0.050038  0.000000  -1.53
+   6        47.59973  0.000000  2.034538* 0.000000  -3.02
+   7       -51.28762* 0.000000  0.910852  0.000000   1.00
+   8       -44.50396  0.000000  1.220379* 0.000000   1.88
+   9      -37.686459* 0.000000  2.798121  0.000000   4.05
+  10       -7.668144  0.000000  0.750590  0.000000
+  su        7.419135  0.000000  1.061977  0.000000
+================================================================================================================================
+              LX        LXe       LY        LYe
+   5         9.21606  0.000000  0.072167* 0.000000  -4.32
+   6       -11.25037  0.000000  8.398013* 0.000000  -1.12
+   7       -10.76391  0.000000  6.281037* 0.000000  -0.94
+   8       -10.62868  0.000000  4.498407* 0.000000  -1.14
+   9       -10.78855  0.000000  2.323007* 0.000000  -3.12
+  10        10.36341  0.000000  4.152344  0.000000
+  su         0.63445  0.000000  2.077635  0.000000
+================================================================================================================================
+
+There were 2 correlations larger than  0.900 in last refinement cycle
+
+-0.948 correlation  : LX/LY                                    -0.921 correlation  : shift/asym1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Refinement program                                                                                                  page=  6
+structure :                                                                                                14:02:15 04-08-23 
+
+
+
+Program started at 14:02:15 ended   at 14:02:23 cpu time :      7.14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

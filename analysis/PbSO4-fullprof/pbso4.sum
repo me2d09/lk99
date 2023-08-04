@@ -1,0 +1,147 @@
+
+
+        **********************************************************
+        ** PROGRAM FullProf.2k (Version 7.20 - Oct2019-ILL JRC) **
+        **********************************************************
+                       M U L T I -- P A T T E R N                 
+            Rietveld, Profile Matching & Integrated Intensity     
+                 Refinement of X-ray and/or Neutron Data
+
+
+    Date: 04/08/2023  Time: 14:02:16.030                              
+
+ => PCR file code: pbso4
+ => DAT file code: 230803_PbSO4raw_geom -> Relative contribution: 1.0000                                                            
+ => Title: PbSO4 D1A(ILL),Rietveld Round Robin, R.J. Hill,JApC 25,589(1992)
+
+ ==> CONDITIONS OF THIS RUN FOR PATTERN No.:  1
+
+ => Global Refinement of X-ray powder diffraction data                                                                              
+ => Global Refinement of X-ray powder diffraction data                                                                              
+    Bragg-Brentano(X-rays) or Debye-Scherrer geometry(Neutrons)
+ => The    5th default profile function was selected
+
+ => Data supplied in free format for pattern:  1
+ => Wavelengths:  1.54056 1.54439
+ => Cos(Monochromator angle)=   0.0000
+ => Absorption correction (AC), muR-eff =   0.0000  0.0000
+ => Base of peaks: 2.0*HW*    4.00
+ ==> Angular range, step and number of points:
+     2Thmin:       5.000000  2Thmax:     100.000000  Step:       0.020000  No. of points:   4751
+ =>-------> Pattern#  1
+ => Crystal Structure Refinement for phase: 1
+ => The    7th profile function was selected for phase no.  1
+ => The density (volumic mass) of phase 1 is:    6.342 g/cm3
+ => Scor: 4.3353
+
+ ==> RESULTS OF REFINEMENT:
+
+
+ => No. of fitted parameters:   29
+
+
+------------------------------------------------------------------------------
+ => Phase No.  1  PbSO4                       VARY xyz b P n m a             
+------------------------------------------------------------------------------
+
+ =>  No. of reflections for pattern#:   1:   394/2
+
+
+ ==> ATOM PARAMETERS:
+
+  Name      x     sx       y     sy       z      sz      B   sB   occ. socc.  Mult
+ Pb      0.18705(  38)  0.25000(   0)  0.16502(  57)  3.469(113)  0.500(  0)    4
+ S       0.06392( 314)  0.25000(   0)  0.68353( 390)  5.640(702)  0.500(  0)    4
+ O1      0.91410( 499)  0.25000(   0)  0.59967( 607)  3.179(999)  0.500(  0)    4
+ O2      0.18859( 586)  0.25000(   0)  0.56473( 714)  3.608(999)  0.500(  0)    4
+ O3      0.07089( 360)  0.00718( 477)  0.79926( 508)  4.029(962)  1.000(  0)    8
+
+ ==> PROFILE PARAMETERS FOR PATTERN#  1
+
+ => Cell parameters      :
+                              8.46570   0.00104
+                              5.39640   0.00067
+                              6.95240   0.00086
+                             90.00000   0.00000
+                             90.00000   0.00000
+                             90.00000   0.00000
+ 
+ => overall scale factor :      0.000063678     0.000000776
+ => Eta(p-v) or m(p-vii) :    0.00000   0.00000
+ => Overall tem. factor  :    0.00000   0.00000
+ => Halfwidth parameters :   -0.14844   0.02565
+                              0.23513   0.02214
+                             -0.01654   0.00402
+ => Preferred orientation:    1.00000   0.00000
+                              0.00000   0.00000
+ => Asymmetry parameters :   -0.44903   0.13927
+                             -0.01760   0.02177
+                              0.81762   0.33369
+                              0.00000   0.00000
+ => X and y parameters   :    0.00000   0.00000
+                              0.00000   0.00000
+ => Strain parameters    :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => Size parameters (G,L):    0.00000   0.00000
+                              0.00000   0.00000
+
+ => Add. shape parameters: 
+                              0.00000   0.00000
+                              0.00000   0.00000
+
+
+
+ ==> GLOBAL PARAMETERS FOR PATTERN#  1
+
+
+ => Zero-point:     0.0474    0.0020
+ => Background Polynomial Parameters ==>
+                               18.955     0.20095    
+                               7.4185     0.27901    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+ 
+ => Cos( theta)-shift parameter :   0.0000  0.0000
+ => Sin(2theta)-shift parameter :   0.0000  0.0000
+
+ ==> RELIABILITY FACTORS WITH ALL NON-EXCLUDED POINTS FOR PATTERN:  1
+
+  => Cycle:  1 => MaxCycle: 30
+ => N-P+C:  4471
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  22.3     Rwp:  31.5     Rexp:   13.56 Chi2:  5.39      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  37.3     Rwp:  44.5     Rexp:   19.16 Chi2:  5.39    
+ => Deviance:  0.373E+05     Dev*  :   8.280    
+ => DW-Stat.:    0.4635     DW-exp:     1.9204
+ => N-sigma of the GoF:      207.756
+
+ ==> RELIABILITY FACTORS FOR POINTS WITH BRAGG CONTRIBUTIONS FOR PATTERN:  1
+
+ => N-P+C:  3821
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  21.3     Rwp:  29.1     Rexp:   12.82 Chi2:  5.14      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  34.3     Rwp:  40.9     Rexp:   18.05 Chi2:  5.14    
+ => Deviance:  0.330E+05     Dev*  :   8.596    
+ => DW-Stat.:    0.5688     DW-exp:     1.9151
+ => N-sigma of the GoF:      181.114
+
+ => Global user-weigthed Chi2 (Bragg contrib.):   6.31    
+
+     -----------------------------------------------------
+     BRAGG R-Factors and weight fractions for Pattern #  1
+     -----------------------------------------------------
+
+ => Phase:  1      PbSO4                       VARY xyz b          BKG blue
+ => Bragg R-factor:   18.6       Vol:  317.616( 0.068)  Fract(%):  100.00( 1.72)
+ => Rf-factor=  18.7             ATZ:        1213.030   Brindley:  1.0000
+
+ 
+              CPU Time:     5.637 seconds
+                            0.094 minutes
+
+ => Run finished at:     Date: 04/08/2023  Time: 14:02:22.172                              

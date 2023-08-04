@@ -1,0 +1,76 @@
+COMM PbSO4 D1A(ILL),Rietveld Round Robin, R.J. Hill,JApC 25,589(1992)           
+! Current global Chi2 (Bragg contrib.) =      2.080    
+! Files => DAT-file: pbso4,  PCR-file: pbso4a
+!Job Npr Nph Nba Nex Nsc Nor Dum Iwg Ilo Ias Res Ste Nre Cry Uni Cor Opt Aut
+   1   7   1   0   2   0   0   0   0   0   0   0   0   0   0   0   0   1   1
+!
+!Ipr Ppl Ioc Mat Pcr Ls1 Ls2 Ls3 NLI Prf Ins Rpa Sym Hkl Fou Sho Ana
+   0   0   1   0   1   0   4   0   0   1   6  -1   1   0   0   1   1
+!
+! lambda1 Lambda2    Ratio    Bkpos    Wdt    Cthm     muR   AsyLim   Rpolarz ->Patt# 1
+ 1.912000 1.912000  1.0000   70.000  6.0000  0.0000  0.0000  160.00    0.0000
+!
+!NCY  Eps  R_at  R_an  R_pr  R_gl     Thmin       Step       Thmax    PSD    Sent0
+  5  0.10  1.00  1.00  1.00  1.00     10.0000   0.050000   155.4500   0.000   0.000
+!
+! Excluded regions (LowT  HighT) for Pattern#  1
+        0.00       10.00
+      154.00      180.00
+! 
+!
+      51    !Number of refined parameters
+!
+!  Zero    Code    SyCos    Code   SySin    Code  Lambda     Code MORE ->Patt# 1
+ -0.09457   81.0  0.00000    0.0  0.00000    0.0 0.000000    0.00   0
+!   Background coefficients/codes  for Pattern#  1
+  209.48      42.552      35.084     -35.862     -32.739      19.994    
+      21.000      31.000      41.000      51.000      61.000      71.000
+!-------------------------------------------------------------------------------
+!  Data for PHASE number:   1  ==> Current R_Bragg for Pattern#  1:     0.00
+!-------------------------------------------------------------------------------
+ PbSO4          ROTAX   164.739258 -0.991172075 -4.58581513E-03 -0.132498026                                                                                        
+!
+!Nat Dis Ang Pr1 Pr2 Pr3 Jbt Irf Isy Str Furth       ATZ    Nvk Npr More
+   5   0   0 0.0 0.0 1.0   0   0   0   0   0       1213.030   0   7   1
+!
+!Jvi Jdi Hel Sol Mom Ter  Brind   RMua    RMub    RMuc   Jtyp  Nsp_Ref Ph_Shift N_Domains
+   3   0   0   0   0   0  1.0000  0.0000  0.0000  0.0000    1      0      0      0
+!
+P n m a                  <--Space group symbol
+!Atom   Typ       X        Y        Z     Biso       Occ     In Fin N_t Spc /Codes
+!    beta11   beta22   beta33   beta12   beta13   beta23  /Codes
+Pb     PB      0.18790  0.25000  0.16721  0.00000   0.50000   0   0   2    0  #color 1 0 0.5 1                                                                
+                171.00     0.00   181.00     0.00      0.00
+      0.00377  0.01779  0.00667  0.00000  0.00031   0.00000
+       301.00   311.00   321.00     0.00   331.00      0.00
+S      S       0.06455  0.25000  0.68498  0.00000   0.50000   0   0   2    0  #radius 0.6 color 0 1 1 1                                                       
+                191.00     0.00   201.00     0.00      0.00
+      0.00259  0.00689  0.00469  0.00000  0.00077   0.00000
+       341.00   351.00   361.00     0.00   371.00      0.00
+O1     O       0.90867  0.25000  0.59565  0.00000   0.50000   0   0   2    0  #color yellow CONN S O 0 1.7                                                    
+                211.00     0.00   221.00     0.00      0.00
+      0.00355  0.02573  0.01004  0.00000 -0.00402   0.00000
+       381.00   391.00   401.00     0.00   411.00      0.00
+O2     O       0.19308  0.25000  0.54286  0.00000   0.50000   0   0   2    0  #color yellow                                                                   
+                231.00     0.00   241.00     0.00      0.00
+      0.00502  0.01669  0.00700  0.00000  0.00329   0.00000
+       421.00   431.00   441.00     0.00   451.00      0.00
+O3     O       0.08073  0.02709  0.80841  0.00000   1.00000   0   0   2    0  #color yellow                                                                   
+                251.00   261.00   271.00     0.00      0.00
+      0.00504  0.00917  0.00743  0.00099  0.00092   0.00327
+       461.00   471.00   481.00   491.00   501.00    511.00
+!-------> Profile Parameters for Pattern #  1
+!  Scale        Shape1      Bov      Str1      Str2      Str3   Strain-Model
+  1.4869       0.00000   0.00000   0.00000   0.00000   0.00000       0
+    11.00000     0.000     0.000     0.000     0.000     0.000
+!       U         V          W           X          Y        GauSiz   LorSiz Size-Model
+   0.167021  -0.473398   0.426125   0.000000   0.085965   0.000000   0.000000    0
+    121.000    131.000    141.000      0.000    151.000      0.000      0.000
+!     a          b         c        alpha      beta       gamma      #Cell Info
+   8.478361   5.396674   6.957972  90.000000  90.000000  90.000000   #BOX -0.25 1.25 -0.15 1.15 -0.15 1.15                                           
+   91.00000  101.00000  111.00000    0.00000    0.00000    0.00000
+!  Pref1    Pref2      Asy1     Asy2     Asy3     Asy4      S_L      D_L
+  0.00000  0.00000  0.38237  0.04025 -0.36147  0.00000  0.00000  0.00000
+     0.00     0.00   161.00   281.00   291.00     0.00     0.00     0.00
+!  2Th1/TOF1    2Th2/TOF2  Pattern # 1
+      10.000     154.000       1
