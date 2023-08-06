@@ -1,0 +1,241 @@
+
+
+        **********************************************************
+        ** PROGRAM FullProf.2k (Version 7.20 - Oct2019-ILL JRC) **
+        **********************************************************
+                       M U L T I -- P A T T E R N                 
+            Rietveld, Profile Matching & Integrated Intensity     
+                 Refinement of X-ray and/or Neutron Data
+
+
+    Date: 05/08/2023  Time: 09:37:52.254                              
+
+ => PCR file code: CuP2
+ => DAT file code: 230804_Cu3P_geom.dat -> Relative contribution: 1.0000                                                            
+ => Title: Darstellung, Eigenschaften und Kristallstruktur von Cu~2~P~7~ und Strukturverfeinerungen von CuP~2~ und AgP~2~
+
+ ==> CONDITIONS OF THIS RUN FOR PATTERN No.:  1
+
+ => Global Refinement of X-ray powder diffraction data                                                                              
+ => Global Refinement of X-ray powder diffraction data                                                                              
+    Bragg-Brentano(X-rays) or Debye-Scherrer geometry(Neutrons)
+ => The    7th default profile function was selected
+
+ => Data supplied in free format for pattern:  1
+ => Wavelengths:  1.54056 1.54439
+ => Cos(Monochromator angle)=   0.9100
+ => Absorption correction (AC), muR-eff =   0.0000  0.0000
+ => Base of peaks: 2.0*HW*    8.00
+ ==> Angular range, step and number of points:
+     2Thmin:       5.000000  2Thmax:     100.000000  Step:       0.020000  No. of points:   4751
+ =>-------> Pattern#  1
+ => Crystal Structure Refinement for phase: 1
+ => The density (volumic mass) of phase 1 is:    4.306 g/cm3
+ => Scor:55.6646
+
+ ==> RESULTS OF REFINEMENT:
+
+
+ => No. of fitted parameters:    0
+
+
+------------------------------------------------------------------------------
+ => Phase No.  1 Darstellung, Eigenschaften und KristallsP 1 21/c 1          
+------------------------------------------------------------------------------
+
+ =>  No. of reflections for pattern#:   1:   406/2
+
+
+ ==> ATOM PARAMETERS:
+
+  Name      x     sx       y     sy       z      sz      B   sB   occ. socc.  Mult
+ P2      0.09352(   0)  0.11390(   0)  0.41975(   0)  0.000(  0)  1.000(  0)    4
+ Cu      0.35656(   0)  0.03929(   0)  0.08398(   0)  0.000(  0)  1.000(  0)    4
+ P1      0.74958(   0)  0.27890(   0)  0.19970(   0)  0.000(  0)  1.000(  0)    4
+
+ ==> PROFILE PARAMETERS FOR PATTERN#  1
+
+ => Cell parameters      :
+                              5.80040   0.00000
+                              4.80630   0.00000
+                              7.52630   0.00000
+                             90.00000   0.00000
+                            112.70000   0.00000
+                             90.00000   0.00000
+ 
+ => overall scale factor :      0.000010000     0.000000000
+ => Eta(p-v) or m(p-vii) :    0.00000   0.00000
+ => Overall tem. factor  :    0.00000   0.00000
+ => Halfwidth parameters :    0.00413   0.00000
+                             -0.00762   0.00000
+                              0.00625   0.00000
+ => Preferred orientation:    0.00000   0.00000
+                              0.00000   0.00000
+ => Asymmetry parameters :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => X and y parameters   :    0.01896   0.00000
+                              0.00000   0.00000
+ => Strain parameters    :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => Size parameters (G,L):    0.00000   0.00000
+                              0.00000   0.00000
+
+ => Add. shape parameters: 
+                              0.00000   0.00000
+                              0.00000   0.00000
+
+
+
+ ==> GLOBAL PARAMETERS FOR PATTERN#  1
+
+
+ => Zero-point:     0.0000    0.0000
+ => Background Polynomial Parameters ==>
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+ 
+ => Cos( theta)-shift parameter :   0.0000  0.0000
+ => Sin(2theta)-shift parameter :   0.0000  0.0000
+
+ ==> RELIABILITY FACTORS WITH ALL NON-EXCLUDED POINTS FOR PATTERN:  1
+
+  => Cycle:  1 => MaxCycle:  1
+ => N-P+C:  4751
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  99.5     Rwp:  99.6     Rexp:    7.96 Chi2:  156.      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  99.5     Rwp:  99.6     Rexp:    7.96 Chi2:  156.    
+ => Deviance:  0.820E+07     Dev*  :   0.000    
+ => DW-Stat.:    0.0044     DW-exp:     1.9099
+ => N-sigma of the GoF:     7576.347
+
+ ==> RELIABILITY FACTORS FOR POINTS WITH BRAGG CONTRIBUTIONS FOR PATTERN:  1
+
+ => N-P+C:  3427
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  99.4     Rwp:  99.5     Rexp:    7.46 Chi2:  178.      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  99.4     Rwp:  99.5     Rexp:    7.46 Chi2:  178.    
+ => Deviance:  0.820E+07     Dev*  :         NaN
+ => DW-Stat.:    0.0054     DW-exp:     1.8939
+ => N-sigma of the GoF:     7319.602
+
+ => Global user-weigthed Chi2 (Bragg contrib.):   178.    
+ => Scor:55.6646
+
+ ==> RESULTS OF REFINEMENT:
+
+
+ => No. of fitted parameters:    0
+
+
+------------------------------------------------------------------------------
+ => Phase No.  1 Darstellung, Eigenschaften und KristallsP 1 21/c 1          
+------------------------------------------------------------------------------
+
+ =>  No. of reflections for pattern#:   1:   406/2
+
+
+ ==> ATOM PARAMETERS:
+
+  Name      x     sx       y     sy       z      sz      B   sB   occ. socc.  Mult
+ P2      0.09352(   0)  0.11390(   0)  0.41975(   0)  0.000(  0)  1.000(  0)    4
+ Cu      0.35656(   0)  0.03929(   0)  0.08398(   0)  0.000(  0)  1.000(  0)    4
+ P1      0.74958(   0)  0.27890(   0)  0.19970(   0)  0.000(  0)  1.000(  0)    4
+
+ ==> PROFILE PARAMETERS FOR PATTERN#  1
+
+ => Cell parameters      :
+                              5.80040   0.00000
+                              4.80630   0.00000
+                              7.52630   0.00000
+                             90.00000   0.00000
+                            112.70000   0.00000
+                             90.00000   0.00000
+ 
+ => overall scale factor :      0.000010000     0.000000000
+ => Eta(p-v) or m(p-vii) :    0.00000   0.00000
+ => Overall tem. factor  :    0.00000   0.00000
+ => Halfwidth parameters :    0.00413   0.00000
+                             -0.00762   0.00000
+                              0.00625   0.00000
+ => Preferred orientation:    0.00000   0.00000
+                              0.00000   0.00000
+ => Asymmetry parameters :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => X and y parameters   :    0.01896   0.00000
+                              0.00000   0.00000
+ => Strain parameters    :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => Size parameters (G,L):    0.00000   0.00000
+                              0.00000   0.00000
+
+ => Add. shape parameters: 
+                              0.00000   0.00000
+                              0.00000   0.00000
+
+
+
+ ==> GLOBAL PARAMETERS FOR PATTERN#  1
+
+
+ => Zero-point:     0.0000    0.0000
+ => Background Polynomial Parameters ==>
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+ 
+ => Cos( theta)-shift parameter :   0.0000  0.0000
+ => Sin(2theta)-shift parameter :   0.0000  0.0000
+
+ ==> RELIABILITY FACTORS WITH ALL NON-EXCLUDED POINTS FOR PATTERN:  1
+
+  => Cycle:  1 => MaxCycle:  1
+ => N-P+C:  4751
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  99.5     Rwp:  99.6     Rexp:    7.96 Chi2:  156.      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  99.5     Rwp:  99.6     Rexp:    7.96 Chi2:  156.    
+ => Deviance:  0.820E+07     Dev*  :   0.000    
+ => DW-Stat.:    0.0044     DW-exp:     1.9099
+ => N-sigma of the GoF:     7576.347
+
+ ==> RELIABILITY FACTORS FOR POINTS WITH BRAGG CONTRIBUTIONS FOR PATTERN:  1
+
+ => N-P+C:  3427
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  99.4     Rwp:  99.5     Rexp:    7.46 Chi2:  178.      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  99.4     Rwp:  99.5     Rexp:    7.46 Chi2:  178.    
+ => Deviance:  0.820E+07     Dev*  :         NaN
+ => DW-Stat.:    0.0054     DW-exp:     1.8939
+ => N-sigma of the GoF:     7319.602
+
+ => Global user-weigthed Chi2 (Bragg contrib.):   217.    
+
+     -----------------------------------------------------
+     BRAGG R-Factors and weight fractions for Pattern #  1
+     -----------------------------------------------------
+
+ => Phase:  1     Darstellung, Eigenschaften und Kristallstruktur von Cu~2~P~7~ und Strukturverfeinerungen von CuP~2~ und AgP~2~
+ => Bragg R-factor:   99.8       Vol:  193.569( 0.000)  Fract(%):  100.00( 0.00)
+ => Rf-factor=  95.2             ATZ:         501.974   Brindley:  1.0000
+
+ 
+              CPU Time:     1.305 seconds
+                            0.022 minutes
+
+ => Run finished at:     Date: 05/08/2023  Time: 09:37:53.687                              

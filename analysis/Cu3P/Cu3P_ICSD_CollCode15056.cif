@@ -1,0 +1,85 @@
+
+#(C) 2023 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_15056-ICSD
+_database_code_ICSD 15056
+_audit_creation_date 1980-01-01
+_audit_update_record 2013-02-01
+_chemical_name_common 'Copper(I) phosphide'
+_chemical_formula_structural 'Cu3 P'
+_chemical_formula_sum 'Cu3 P1'
+_chemical_name_structure_type LaF3(P63cm)#Cu3P
+_exptl_crystal_density_diffrn 7.37
+_citation_title 'The crystal structure of Cu3 P'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Chemica Scandinavica ' 1972 26 2777 2787 ACSAA4
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Olofsson, O.'
+_cell_length_a 6.9593(5)
+_cell_length_b 6.9593(5)
+_cell_length_c 7.143(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 299.6
+_cell_formula_units_Z 6
+_space_group_name_H-M_alt 'P 63 c m'
+_space_group_IT_number 185
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, x-y, z+1/2'
+2 '-x+y, y, z+1/2'
+3 '-y, -x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 '-x, -x+y, z'
+8 'x-y, -y, z'
+9 'y, x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu1+ 1
+P3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Cu1 Cu1+ 6 c 0.2806(2) 0 0.0765(4) . 1.
+Cu2 Cu1+ 6 c 0.3761(2) 0 0.4246(3) . 1.
+Cu3 Cu1+ 4 b 0.3333 0.6667 0.1998(4) . 1.
+Cu4 Cu1+ 2 a 0 0 0.3213(4) . 1.
+P1 P3- 6 c 0.3322(3) 0 0.75 . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cu1 Cu1+ 0.0127(2) 0.0103(2) 0.0036(2) 0.0052(1) 0.0008(2) 0
+Cu2 Cu1+ 0.0141(2) 0.0300(5) 0.0045(2) 0.0150(3) 0.0026(2) 0
+Cu3 Cu1+ 0.0059(1) 0.0059(1) 0.0181(4) 0.0029(1) 0 0
+Cu4 Cu1+ 0.0057(2) 0.0057(2) 0.0085(3) 0.0029(1) 0 0
+P1 P3- 0.0047(2) 0.0046(3) 0.0024(2) 0.0023(2) -.0004(1) 0
+#End of TTdata_15056-ICSD

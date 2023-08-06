@@ -1,12 +1,12 @@
   Subroutine Calc_BVS (JRC-LLB, version: March-2005)
   Title: Summary of Bond-Valence calculations for file: pbso4_1.cfl
    Atom      Coord  D_aver Sigm   Distort(x10-4)    Valence    BVSum(Sigma)
-    Pb       10.00  2.7937( 107)        40.221       2.000       1.953( 46)
-    S         4.00  1.4537( 221)        34.553       6.000       6.509(438)
-    O1        2.00  2.0300( 325)       970.073      -2.000       2.083(247)
-    O2        4.00  2.5198( 201)       736.881      -2.000       2.576(327)
-    O3        4.00  2.4516( 164)       509.779      -2.000       1.902(115)
- =>  Old Global Instability Index (  GII=SQRT{SUM{|BVS-abs(q)|^2}/Num_Atoms} ) =  34.94 /100
- =>  Normalized   GII(a)=       SUM {|BVS-abs(q)|  *mult}       /N_Atoms_UCell =  23.54 /100
- =>  Normalized   GII(b)=       SUM {|BVS-abs(q)|  *mult/abs(q)}/N_Atoms_UCell =   8.94 %
- =>  Normalized   GII(c)= SQRT{ SUM {|BVS-abs(q)|^2*mult}       /N_Atoms_UCell}=  32.15 /100
+    Pb       10.00  2.7937( 107)        40.218       2.000       1.953( 46)
+    S         4.00  1.4538( 221)        37.540       6.000       6.524(442)
+    O1        2.00  2.0285( 325)       975.894      -2.000       2.098(249)
+    O2        4.00  2.5188( 201)       741.464      -2.000       2.601(331)
+    O3        4.00  2.4525( 164)       506.651      -2.000       1.889(114)
+ =>  Old Global Instability Index (  GII=SQRT{SUM{|BVS-abs(q)|^2}/Num_Atoms} ) =  36.32 /100
+ =>  Normalized   GII(a)=       SUM {|BVS-abs(q)|  *mult}       /N_Atoms_UCell =  24.85 /100
+ =>  Normalized   GII(b)=       SUM {|BVS-abs(q)|  *mult/abs(q)}/N_Atoms_UCell =   9.51 %
+ =>  Normalized   GII(c)= SQRT{ SUM {|BVS-abs(q)|^2*mult}       /N_Atoms_UCell}=  33.47 /100

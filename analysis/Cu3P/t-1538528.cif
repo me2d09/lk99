@@ -1,0 +1,67 @@
+#------------------------------------------------------------------------------
+#$Date: 2015-10-13 16:24:12 +0300 (Tue, 13 Oct 2015) $
+#$Revision: 167143 $
+#$URL: svn://www.crystallography.net/cod/cif/1/53/85/1538528.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_1538528
+loop_
+_publ_author_name
+'Robertson, B.E.'
+'Calvo, C.'
+_publ_section_title
+;
+ Crystal structure of beta - Cu2 P2 O7
+;
+_journal_name_full               'Canadian Journal of Chemistry'
+_journal_page_first              605
+_journal_page_last               612
+_journal_volume                  46
+_journal_year                    1968
+_chemical_formula_sum            'Cu2 O7 P2'
+_chemical_name_systematic        'Cu2 (P2 O7)'
+_space_group_IT_number           12
+_symmetry_space_group_name_Hall  '-C 2y'
+_symmetry_space_group_name_H-M   'C 1 2/m 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 108.85
+_cell_angle_gamma                90
+_cell_formula_units_Z            2
+_cell_length_a                   6.827
+_cell_length_b                   8.118
+_cell_length_c                   4.576
+_cell_volume                     240.008
+_citation_journal_id_ASTM        CJCHAG
+_cod_data_source_file            Robertson_CJCHAG_1968_1876.cif
+_cod_data_source_block           Cu2O7P2
+_cod_original_cell_volume        240.0076
+_cod_database_code               1538528
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-x,y,-z
+-x,-y,-z
+x,-y,z
+x+1/2,y+1/2,z
+-x+1/2,y+1/2,-z
+-x+1/2,-y+1/2,-z
+x+1/2,-y+1/2,z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+P1 P+5 0.1998 0 -0.0883 1 0.0
+O1 O-2 0 0 0 1 0.0
+O3 O-2 0.2035 0.1533 -0.2708 1 0.0
+O2 O-2 0.3759 0 0.2161 1 0.0
+Cu1 Cu+2 0 0.3122 0.5 1 0.0

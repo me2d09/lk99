@@ -8,7 +8,7 @@
                  Refinement of X-ray and/or Neutron Data
 
 
-    Date: 04/08/2023  Time: 14:02:16.030                              
+    Date: 04/08/2023  Time: 16:17:06.501                              
 
  => PCR file code: pbso4
  => DAT file code: 230803_PbSO4raw_geom -> Relative contribution: 1.0000                                                            
@@ -32,7 +32,7 @@
  => Crystal Structure Refinement for phase: 1
  => The    7th profile function was selected for phase no.  1
  => The density (volumic mass) of phase 1 is:    6.342 g/cm3
- => Scor: 4.3353
+ => Scor: 4.3307
 
  ==> RESULTS OF REFINEMENT:
 
@@ -50,33 +50,33 @@
  ==> ATOM PARAMETERS:
 
   Name      x     sx       y     sy       z      sz      B   sB   occ. socc.  Mult
- Pb      0.18705(  38)  0.25000(   0)  0.16502(  57)  3.469(113)  0.500(  0)    4
- S       0.06392( 314)  0.25000(   0)  0.68353( 390)  5.640(702)  0.500(  0)    4
- O1      0.91410( 499)  0.25000(   0)  0.59967( 607)  3.179(999)  0.500(  0)    4
- O2      0.18859( 586)  0.25000(   0)  0.56473( 714)  3.608(999)  0.500(  0)    4
- O3      0.07089( 360)  0.00718( 477)  0.79926( 508)  4.029(962)  1.000(  0)    8
+ Pb      0.18705(  38)  0.25000(   0)  0.16499(  57)  3.471(112)  0.500(  0)    4
+ S       0.06391( 313)  0.25000(   0)  0.68348( 388)  5.626(699)  0.500(  0)    4
+ O1      0.91401( 497)  0.25000(   0)  0.59980( 605)  3.168(999)  0.500(  0)    4
+ O2      0.18855( 585)  0.25000(   0)  0.56473( 712)  3.637(999)  0.500(  0)    4
+ O3      0.07089( 358)  0.00739( 475)  0.79924( 506)  4.002(957)  1.000(  0)    8
 
  ==> PROFILE PARAMETERS FOR PATTERN#  1
 
  => Cell parameters      :
-                              8.46570   0.00104
-                              5.39640   0.00067
-                              6.95240   0.00086
+                              8.46583   0.00103
+                              5.39640   0.00066
+                              6.95243   0.00085
                              90.00000   0.00000
                              90.00000   0.00000
                              90.00000   0.00000
  
- => overall scale factor :      0.000063678     0.000000776
+ => overall scale factor :      0.000063749     0.000000776
  => Eta(p-v) or m(p-vii) :    0.00000   0.00000
  => Overall tem. factor  :    0.00000   0.00000
- => Halfwidth parameters :   -0.14844   0.02565
-                              0.23513   0.02214
-                             -0.01654   0.00402
+ => Halfwidth parameters :   -0.14854   0.02511
+                              0.23402   0.02186
+                             -0.01637   0.00398
  => Preferred orientation:    1.00000   0.00000
                               0.00000   0.00000
- => Asymmetry parameters :   -0.44903   0.13927
-                             -0.01760   0.02177
-                              0.81762   0.33369
+ => Asymmetry parameters :   -0.45418   0.13900
+                             -0.01968   0.02164
+                              0.81891   0.33056
                               0.00000   0.00000
  => X and y parameters   :    0.00000   0.00000
                               0.00000   0.00000
@@ -95,10 +95,10 @@
  ==> GLOBAL PARAMETERS FOR PATTERN#  1
 
 
- => Zero-point:     0.0474    0.0020
+ => Zero-point:     0.0479    0.0020
  => Background Polynomial Parameters ==>
-                               18.955     0.20095    
-                               7.4185     0.27901    
+                               18.958     0.20077    
+                               7.4221     0.27867    
                                0.0000      0.0000    
                                0.0000      0.0000    
                                0.0000      0.0000    
@@ -109,15 +109,15 @@
 
  ==> RELIABILITY FACTORS WITH ALL NON-EXCLUDED POINTS FOR PATTERN:  1
 
-  => Cycle:  1 => MaxCycle: 30
+  => Cycle: 13 => MaxCycle: 30
  => N-P+C:  4471
  =>  R-factors (not corrected for background) for Pattern:  1
  => Rp:  22.3     Rwp:  31.5     Rexp:   13.56 Chi2:  5.39      L.S. refinement
  => Conventional Rietveld R-factors for Pattern:  1
  => Rp:  37.3     Rwp:  44.5     Rexp:   19.16 Chi2:  5.39    
  => Deviance:  0.373E+05     Dev*  :   8.280    
- => DW-Stat.:    0.4635     DW-exp:     1.9204
- => N-sigma of the GoF:      207.756
+ => DW-Stat.:    0.4636     DW-exp:     1.9204
+ => N-sigma of the GoF:      207.678
 
  ==> RELIABILITY FACTORS FOR POINTS WITH BRAGG CONTRIBUTIONS FOR PATTERN:  1
 
@@ -127,8 +127,8 @@
  => Conventional Rietveld R-factors for Pattern:  1
  => Rp:  34.3     Rwp:  40.9     Rexp:   18.05 Chi2:  5.14    
  => Deviance:  0.330E+05     Dev*  :   8.596    
- => DW-Stat.:    0.5688     DW-exp:     1.9151
- => N-sigma of the GoF:      181.114
+ => DW-Stat.:    0.5689     DW-exp:     1.9151
+ => N-sigma of the GoF:      181.030
 
  => Global user-weigthed Chi2 (Bragg contrib.):   6.31    
 
@@ -137,11 +137,11 @@
      -----------------------------------------------------
 
  => Phase:  1      PbSO4                       VARY xyz b          BKG blue
- => Bragg R-factor:   18.6       Vol:  317.616( 0.068)  Fract(%):  100.00( 1.72)
- => Rf-factor=  18.7             ATZ:        1213.030   Brindley:  1.0000
+ => Bragg R-factor:   18.5       Vol:  317.621( 0.067)  Fract(%):  100.00( 1.72)
+ => Rf-factor=  18.6             ATZ:        1213.030   Brindley:  1.0000
 
  
-              CPU Time:     5.637 seconds
-                            0.094 minutes
+              CPU Time:     7.395 seconds
+                            0.123 minutes
 
- => Run finished at:     Date: 04/08/2023  Time: 14:02:22.172                              
+ => Run finished at:     Date: 04/08/2023  Time: 16:17:13.930                              

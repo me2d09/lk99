@@ -1,0 +1,247 @@
+
+
+        **********************************************************
+        ** PROGRAM FullProf.2k (Version 7.20 - Oct2019-ILL JRC) **
+        **********************************************************
+                       M U L T I -- P A T T E R N                 
+            Rietveld, Profile Matching & Integrated Intensity     
+                 Refinement of X-ray and/or Neutron Data
+
+
+    Date: 05/08/2023  Time: 08:44:51.104                              
+
+ => PCR file code: P2O5-2
+ => DAT file code: 230804_Cu3P_geom.dat -> Relative contribution: 1.0000                                                            
+ => Title: Refinements of structures containing bonds between Si, P, S or Cl and O
+
+ ==> CONDITIONS OF THIS RUN FOR PATTERN No.:  1
+
+ => Global Refinement of X-ray powder diffraction data                                                                              
+ => Global Refinement of X-ray powder diffraction data                                                                              
+    Bragg-Brentano(X-rays) or Debye-Scherrer geometry(Neutrons)
+ => The    7th default profile function was selected
+
+ => Data supplied in free format for pattern:  1
+ => Wavelengths:  1.54056 1.54439
+ => Cos(Monochromator angle)=   0.9100
+ => Absorption correction (AC), muR-eff =   0.0000  0.0000
+ => Base of peaks: 2.0*HW*    8.00
+ ==> Angular range, step and number of points:
+     2Thmin:       5.000000  2Thmax:     100.000000  Step:       0.020000  No. of points:   4751
+ =>-------> Pattern#  1
+ => Crystal Structure Refinement for phase: 1
+ => The density (volumic mass) of phase 1 is:    2.325 g/cm3
+ => Scor: 2.5720
+
+ ==> RESULTS OF REFINEMENT:
+
+
+ => No. of fitted parameters:    0
+
+
+------------------------------------------------------------------------------
+ => Phase No.  1 Refinements of structures containing bonR 3 c               
+------------------------------------------------------------------------------
+
+ =>  No. of reflections for pattern#:   1:   293/2
+
+
+ ==> ATOM PARAMETERS:
+
+  Name      x     sx       y     sy       z      sz      B   sB   occ. socc.  Mult
+ O2      0.09100(   0)  0.12500(   0)  0.56200(   0)  0.000(  0)  1.000(  0)   18
+ P1      0.00000(   0)  0.00000(   0)  0.94500(   0)  0.000(  0)  0.333(  0)    6
+ O1      0.00000(   0)  0.00000(   0)  0.77500(   0)  0.000(  0)  0.333(  0)    6
+ P2      0.21900(   0)  0.11300(   0)  0.69100(   0)  0.000(  0)  1.000(  0)   18
+ O4      0.21000(   0)  0.20400(   0)  0.40700(   0)  0.000(  0)  1.000(  0)   18
+ O3      0.92700(   0)  0.05300(   0)  0.45600(   0)  0.000(  0)  1.000(  0)   18
+
+ ==> PROFILE PARAMETERS FOR PATTERN#  1
+
+ => Cell parameters      :
+                             10.20000   0.00000
+                             10.20000   0.00000
+                             13.50000   0.00000
+                             90.00000   0.00000
+                             90.00000   0.00000
+                            120.00000   0.00000
+ 
+ => overall scale factor :      0.001000000     0.000000000
+ => Eta(p-v) or m(p-vii) :    0.00000   0.00000
+ => Overall tem. factor  :    0.00000   0.00000
+ => Halfwidth parameters :    0.00413   0.00000
+                             -0.00762   0.00000
+                              0.00625   0.00000
+ => Preferred orientation:    0.00000   0.00000
+                              0.00000   0.00000
+ => Asymmetry parameters :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => X and y parameters   :    0.01896   0.00000
+                              0.00000   0.00000
+ => Strain parameters    :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => Size parameters (G,L):    0.00000   0.00000
+                              0.00000   0.00000
+
+ => Add. shape parameters: 
+                              0.00000   0.00000
+                              0.00000   0.00000
+
+
+
+ ==> GLOBAL PARAMETERS FOR PATTERN#  1
+
+
+ => Zero-point:     0.0000    0.0000
+ => Background Polynomial Parameters ==>
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+ 
+ => Cos( theta)-shift parameter :   0.0000  0.0000
+ => Sin(2theta)-shift parameter :   0.0000  0.0000
+
+ ==> RELIABILITY FACTORS WITH ALL NON-EXCLUDED POINTS FOR PATTERN:  1
+
+  => Cycle:  1 => MaxCycle:  1
+ => N-P+C:  4751
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  669.     Rwp: 0.679E+04 Rexp:    7.96 Chi2: 0.728E+06  L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  669.     Rwp: 0.679E+04 Rexp:    7.96 Chi2: 0.728E+06
+ => Deviance:  0.972E+07     Dev*  :   0.000    
+ => DW-Stat.:    0.1748     DW-exp:     1.9099
+ => N-sigma of the GoF: 35500388.000
+
+ ==> RELIABILITY FACTORS FOR POINTS WITH BRAGG CONTRIBUTIONS FOR PATTERN:  1
+
+ => N-P+C:  3493
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  797.     Rwp: 0.752E+04 Rexp:    7.55 Chi2: 0.991E+06  L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  797.     Rwp: 0.752E+04 Rexp:    7.55 Chi2: 0.991E+06
+ => Deviance:  0.972E+07     Dev*  :         NaN
+ => DW-Stat.:    0.1748     DW-exp:     1.8949
+ => N-sigma of the GoF: 41400852.000
+
+ => Global user-weigthed Chi2 (Bragg contrib.):  0.991E+06
+ => Scor: 2.5720
+
+ ==> RESULTS OF REFINEMENT:
+
+
+ => No. of fitted parameters:    0
+
+
+------------------------------------------------------------------------------
+ => Phase No.  1 Refinements of structures containing bonR 3 c               
+------------------------------------------------------------------------------
+
+ =>  No. of reflections for pattern#:   1:   293/2
+
+
+ ==> ATOM PARAMETERS:
+
+  Name      x     sx       y     sy       z      sz      B   sB   occ. socc.  Mult
+ O2      0.09100(   0)  0.12500(   0)  0.56200(   0)  0.000(  0)  1.000(  0)   18
+ P1      0.00000(   0)  0.00000(   0)  0.94500(   0)  0.000(  0)  0.333(  0)    6
+ O1      0.00000(   0)  0.00000(   0)  0.77500(   0)  0.000(  0)  0.333(  0)    6
+ P2      0.21900(   0)  0.11300(   0)  0.69100(   0)  0.000(  0)  1.000(  0)   18
+ O4      0.21000(   0)  0.20400(   0)  0.40700(   0)  0.000(  0)  1.000(  0)   18
+ O3      0.92700(   0)  0.05300(   0)  0.45600(   0)  0.000(  0)  1.000(  0)   18
+
+ ==> PROFILE PARAMETERS FOR PATTERN#  1
+
+ => Cell parameters      :
+                             10.20000   0.00000
+                             10.20000   0.00000
+                             13.50000   0.00000
+                             90.00000   0.00000
+                             90.00000   0.00000
+                            120.00000   0.00000
+ 
+ => overall scale factor :      0.001000000     0.000000000
+ => Eta(p-v) or m(p-vii) :    0.00000   0.00000
+ => Overall tem. factor  :    0.00000   0.00000
+ => Halfwidth parameters :    0.00413   0.00000
+                             -0.00762   0.00000
+                              0.00625   0.00000
+ => Preferred orientation:    0.00000   0.00000
+                              0.00000   0.00000
+ => Asymmetry parameters :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => X and y parameters   :    0.01896   0.00000
+                              0.00000   0.00000
+ => Strain parameters    :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => Size parameters (G,L):    0.00000   0.00000
+                              0.00000   0.00000
+
+ => Add. shape parameters: 
+                              0.00000   0.00000
+                              0.00000   0.00000
+
+
+
+ ==> GLOBAL PARAMETERS FOR PATTERN#  1
+
+
+ => Zero-point:     0.0000    0.0000
+ => Background Polynomial Parameters ==>
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+ 
+ => Cos( theta)-shift parameter :   0.0000  0.0000
+ => Sin(2theta)-shift parameter :   0.0000  0.0000
+
+ ==> RELIABILITY FACTORS WITH ALL NON-EXCLUDED POINTS FOR PATTERN:  1
+
+  => Cycle:  1 => MaxCycle:  1
+ => N-P+C:  4751
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  669.     Rwp: 0.679E+04 Rexp:    7.96 Chi2: 0.728E+06  L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  669.     Rwp: 0.679E+04 Rexp:    7.96 Chi2: 0.728E+06
+ => Deviance:  0.972E+07     Dev*  :   0.000    
+ => DW-Stat.:    0.1748     DW-exp:     1.9099
+ => N-sigma of the GoF: 35500388.000
+
+ ==> RELIABILITY FACTORS FOR POINTS WITH BRAGG CONTRIBUTIONS FOR PATTERN:  1
+
+ => N-P+C:  3493
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  797.     Rwp: 0.752E+04 Rexp:    7.55 Chi2: 0.991E+06  L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  797.     Rwp: 0.752E+04 Rexp:    7.55 Chi2: 0.991E+06
+ => Deviance:  0.972E+07     Dev*  :         NaN
+ => DW-Stat.:    0.1748     DW-exp:     1.8949
+ => N-sigma of the GoF: 41400852.000
+
+ => Global user-weigthed Chi2 (Bragg contrib.):  0.991E+06
+
+     -----------------------------------------------------
+     BRAGG R-Factors and weight fractions for Pattern #  1
+     -----------------------------------------------------
+
+ => Phase:  1     Refinements of structures containing bonds between Si, P, S or Cl and O
+ => Bragg R-factor:   638.       Vol: 1216.367( 0.000)  Fract(%):  100.00( 0.00)
+ => Rf-factor=  87.9             ATZ:        1703.332   Brindley:  1.0000
+
+ 
+              CPU Time:     1.305 seconds
+                            0.022 minutes
+
+ => Run finished at:     Date: 05/08/2023  Time: 08:44:52.593                              

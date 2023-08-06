@@ -15,13 +15,13 @@
          !
          Title  CFL-file generated from FullProf for phase:  PbSO4                       VARY xyz b          BKG blue
          !
-         Cell    8.4657(10)  5.3964(7)  6.9524(9)  90.0000  90.0000  90.0000
+         Cell    8.4658(10)  5.3964(7)  6.9524(9)  90.0000  90.0000  90.0000
          !
          SpGR  P n m a
          !
          !  Atom-strings in the order: Label, Species, x, y, z, Biso, Occ [,2*Spin, charge]
          Atom Pb   PB+2   0.1870(4)     0.25000       0.1650(6)     3.47(11)      0.50000
-         Atom S    S+6    0.064(3)      0.25000       0.684(4)      5.6(7)        0.50000
+         Atom S    S+6    0.064(3)      0.25000       0.683(4)      5.6(7)        0.50000
          Atom O1   O-2    0.914(5)      0.25000       0.600(6)      3.2(13)       0.50000
          Atom O2   O-2    0.189(6)      0.25000       0.565(7)      3.6(13)       0.50000
          Atom O3   O-2    0.071(4)      0.007(5)      0.799(5)      4.0(10)       1.00000
@@ -40,20 +40,20 @@
 
  => Direct cell parameters:
 
-         a =       8.4657      b =       5.3964      c =       6.9524
+         a =       8.4658      b =       5.3964      c =       6.9524
      alpha =       90.000   beta =       90.000  gamma =       90.000
-                        Direct Cell Volume =     317.6156
+                        Direct Cell Volume =     317.6194
 
  => Reciprocal cell parameters:
 
-         a*=     0.118124      b*=     0.185309      c*=     0.143835
+         a*=     0.118122      b*=     0.185309      c*=     0.143835
      alpha*=       90.000   beta*=       90.000  gamma*=       90.000
-                    Reciprocal Cell Volume =   0.00314846
+                    Reciprocal Cell Volume =   0.00314842
 
  => Direct and Reciprocal Metric Tensors:
 
                    GD                                       GR
-     71.6681      0.0000      0.0000          0.013953    0.000000    0.000000
+     71.6698      0.0000      0.0000          0.013953    0.000000    0.000000
       0.0000     29.1211      0.0000          0.000000    0.034339    0.000000
       0.0000      0.0000     48.3359          0.000000    0.000000    0.020689
 
@@ -61,13 +61,13 @@
 
      Crystal_to_Orthonormal_Matrix              Orthonormal_to_Crystal Matrix
               Cr_Orth_cel                               Orth_Cr_cel  
-      8.4657      0.0000      0.0000          0.118124   -0.000000   -0.000000
+      8.4658      0.0000      0.0000          0.118122   -0.000000   -0.000000
       0.0000      5.3964      0.0000          0.000000    0.185309   -0.000000
       0.0000      0.0000      6.9524          0.000000    0.000000    0.143835
 
      Busing-Levy B-matrix: Hc=B.H            Inverse of the Busing-Levy B-matrix
                 BL_M                                      BL_Minv  
-    0.118124    0.000000    0.000000            8.4657     -0.0000     -0.0000
+    0.118122    0.000000    0.000000            8.4658     -0.0000     -0.0000
     0.000000    0.185309   -0.000000            0.0000      5.3964      0.0000
     0.000000    0.000000    0.143835            0.0000      0.0000      6.9524
 
@@ -124,7 +124,7 @@
     Atom      Chem        x/a       y/b       z/c       Biso     Occ       Mult
     ===========================================================================
     Pb         Pb       0.1870    0.2500    0.1650    3.4700    0.5000        4  None
-    S          S        0.0640    0.2500    0.6840    5.6000    0.5000        4  None
+    S          S        0.0640    0.2500    0.6830    5.6000    0.5000        4  None
     O1         O        0.9140    0.2500    0.6000    3.2000    0.5000        4  None
     O2         O        0.1890    0.2500    0.5650    3.6000    0.5000        4  None
     O3         O        0.0710    0.0070    0.7990    4.0000    1.0000        8  None
@@ -140,8 +140,8 @@
  Orig. extr. p.equiv.           Distance      x_ext   y_ext   z_ext  (tx,ty,tz)     Sym. op.
 
 
-    1   2   4  ( Pb   )-(  S   ): 3.427(16)    0.4360 -0.2500  0.1840  (0,0,-1)     -x+1/2,-y,z+1/2            
-    1   2   4  ( Pb   )-(  S   ): 3.427(16)    0.4360  0.7500  0.1840  (0,1,-1)     -x+1/2,-y,z+1/2            
+    1   2   4  ( Pb   )-(  S   ): 3.426(16)    0.4360 -0.2500  0.1830  (0,0,-1)     -x+1/2,-y,z+1/2            
+    1   2   4  ( Pb   )-(  S   ): 3.426(16)    0.4360  0.7500  0.1830  (0,1,-1)     -x+1/2,-y,z+1/2            
     1   3   2  ( Pb   )-( O1   ): 2.66(4)      0.4140  0.2500 -0.1000  (-1,0,0)     x+1/2,-y+1/2,-z+1/2        
     1   3   3  ( Pb   )-( O1   ): 3.27(2)      0.0860 -0.2500  0.4000  (1,-1,1)     -x,y+1/2,-z                
     1   3   3  ( Pb   )-( O1   ): 3.27(2)      0.0860  0.7500  0.4000  (1,0,1)      -x,y+1/2,-z                
@@ -157,7 +157,7 @@
 
 
     -------------------------------------------------------------------
-    Distances less than  3.5000  to atom:   S     0.0640  0.2500  0.6840
+    Distances less than  3.5000  to atom:   S     0.0640  0.2500  0.6830
     -------------------------------------------------------------------
 
 
@@ -166,12 +166,12 @@
  Orig. extr. p.equiv.           Distance      x_ext   y_ext   z_ext  (tx,ty,tz)     Sym. op.
 
 
-    2   1   4  (  S   )-( Pb   ): 3.427(16)    0.3130 -0.2500  0.6650  (0,0,0)      -x+1/2,-y,z+1/2            
-    2   1   4  (  S   )-( Pb   ): 3.427(16)    0.3130  0.7500  0.6650  (0,1,0)      -x+1/2,-y,z+1/2            
-    2   3   1  (  S   )-( O1   ): 1.40(5)     -0.0860  0.2500  0.6000  (-1,0,0)     x,y,z                      
-    2   3   2  (  S   )-( O1   ): 3.32(5)      0.4140  0.2500  0.9000  (-1,0,1)     x+1/2,-y+1/2,-z+1/2        
-    2   3   3  (  S   )-( O1   ): 3.35(3)      0.0860 -0.2500  0.4000  (1,-1,1)     -x,y+1/2,-z                
-    2   3   3  (  S   )-( O1   ): 3.35(3)      0.0860  0.7500  0.4000  (1,0,1)      -x,y+1/2,-z                
+    2   1   4  (  S   )-( Pb   ): 3.426(16)    0.3130 -0.2500  0.6650  (0,0,0)      -x+1/2,-y,z+1/2            
+    2   1   4  (  S   )-( Pb   ): 3.426(16)    0.3130  0.7500  0.6650  (0,1,0)      -x+1/2,-y,z+1/2            
+    2   3   1  (  S   )-( O1   ): 1.39(5)     -0.0860  0.2500  0.6000  (-1,0,0)     x,y,z                      
+    2   3   2  (  S   )-( O1   ): 3.33(5)      0.4140  0.2500  0.9000  (-1,0,1)     x+1/2,-y+1/2,-z+1/2        
+    2   3   3  (  S   )-( O1   ): 3.34(3)      0.0860 -0.2500  0.4000  (1,-1,1)     -x,y+1/2,-z                
+    2   3   3  (  S   )-( O1   ): 3.34(3)      0.0860  0.7500  0.4000  (1,0,1)      -x,y+1/2,-z                
     2   4   1  (  S   )-( O2   ): 1.34(6)      0.1890  0.2500  0.5650  (0,0,0)      x,y,z                      
     2   5   1  (  S   )-( O3   ): 1.54(3)      0.0710  0.0070  0.7990  (0,0,0)      x,y,z                      
     2   5   7  (  S   )-( O3   ): 1.54(3)      0.0710  0.4930  0.7990  (0,0,0)      x,-y+1/2,z                 
@@ -190,10 +190,10 @@
     3   1   2  ( O1   )-( Pb   ): 2.66(4)      0.6870  0.2500  0.3350  (0,0,0)      x+1/2,-y+1/2,-z+1/2        
     3   1   3  ( O1   )-( Pb   ): 3.27(2)      0.8130 -0.2500  0.8350  (1,-1,1)     -x,y+1/2,-z                
     3   1   3  ( O1   )-( Pb   ): 3.27(2)      0.8130  0.7500  0.8350  (1,0,1)      -x,y+1/2,-z                
-    3   2   1  ( O1   )-(  S   ): 1.40(5)      1.0640  0.2500  0.6840  (1,0,0)      x,y,z                      
-    3   2   2  ( O1   )-(  S   ): 3.32(5)      0.5640  0.2500  0.8160  (0,0,1)      x+1/2,-y+1/2,-z+1/2        
-    3   2   3  ( O1   )-(  S   ): 3.35(3)      0.9360 -0.2500  0.3160  (1,-1,1)     -x,y+1/2,-z                
-    3   2   3  ( O1   )-(  S   ): 3.35(3)      0.9360  0.7500  0.3160  (1,0,1)      -x,y+1/2,-z                
+    3   2   1  ( O1   )-(  S   ): 1.39(5)      1.0640  0.2500  0.6830  (1,0,0)      x,y,z                      
+    3   2   2  ( O1   )-(  S   ): 3.33(5)      0.5640  0.2500  0.8170  (0,0,1)      x+1/2,-y+1/2,-z+1/2        
+    3   2   3  ( O1   )-(  S   ): 3.34(3)      0.9360 -0.2500  0.3170  (1,-1,1)     -x,y+1/2,-z                
+    3   2   3  ( O1   )-(  S   ): 3.34(3)      0.9360  0.7500  0.3170  (1,0,1)      -x,y+1/2,-z                
     3   3   3  ( O1   )-( O1   ): 3.37(4)      1.0860 -0.2500  0.4000  (2,-1,1)     -x,y+1/2,-z                
     3   3   3  ( O1   )-( O1   ): 3.37(4)      1.0860  0.7500  0.4000  (2,0,1)      -x,y+1/2,-z                
     3   4   1  ( O1   )-( O2   ): 2.34(7)      1.1890  0.2500  0.5650  (1,0,0)      x,y,z                      
@@ -221,7 +221,7 @@
     4   1   1  ( O2   )-( Pb   ): 2.78(5)      0.1870  0.2500  0.1650  (0,0,0)      x,y,z                      
     4   1   4  ( O2   )-( Pb   ): 2.98(2)      0.3130 -0.2500  0.6650  (0,0,0)      -x+1/2,-y,z+1/2            
     4   1   4  ( O2   )-( Pb   ): 2.98(2)      0.3130  0.7500  0.6650  (0,1,0)      -x+1/2,-y,z+1/2            
-    4   2   1  ( O2   )-(  S   ): 1.34(6)      0.0640  0.2500  0.6840  (0,0,0)      x,y,z                      
+    4   2   1  ( O2   )-(  S   ): 1.34(6)      0.0640  0.2500  0.6830  (0,0,0)      x,y,z                      
     4   3   1  ( O2   )-( O1   ): 2.34(7)     -0.0860  0.2500  0.6000  (-1,0,0)     x,y,z                      
     4   3   2  ( O2   )-( O1   ): 3.01(6)      0.4140  0.2500  0.9000  (-1,0,1)     x+1/2,-y+1/2,-z+1/2        
     4   3   3  ( O2   )-( O1   ): 3.06(3)      0.0860 -0.2500  0.4000  (1,-1,1)     -x,y+1/2,-z                
@@ -245,7 +245,7 @@
     5   1   1  ( O3   )-( Pb   ): 3.03(3)      0.1870  0.2500  1.1650  (0,0,1)      x,y,z                      
     5   1   3  ( O3   )-( Pb   ): 2.60(3)     -0.1870 -0.2500  0.8350  (0,-1,1)     -x,y+1/2,-z                
     5   1   4  ( O3   )-( Pb   ): 2.64(3)      0.3130 -0.2500  0.6650  (0,0,0)      -x+1/2,-y,z+1/2            
-    5   2   1  ( O3   )-(  S   ): 1.54(3)      0.0640  0.2500  0.6840  (0,0,0)      x,y,z                      
+    5   2   1  ( O3   )-(  S   ): 1.54(3)      0.0640  0.2500  0.6830  (0,0,0)      x,y,z                      
     5   3   1  ( O3   )-( O1   ): 2.32(5)     -0.0860  0.2500  0.6000  (-1,0,0)     x,y,z                      
     5   3   2  ( O3   )-( O1   ): 3.26(5)      0.4140  0.2500  0.9000  (-1,0,1)     x+1/2,-y+1/2,-z+1/2        
     5   3   3  ( O3   )-( O1   ): 3.10(5)      0.0860 -0.2500  0.4000  (1,-1,1)     -x,y+1/2,-z                
@@ -279,18 +279,18 @@
  (Pb  )-(O2  ) :  2.9775( 213)   0.126(  5)
  (Pb  )-(O2  ) :  2.9775( 213)   0.126(  5)
  (Pb  )-(O3  ) :  3.0264( 335)   0.114(  8)
- (Pb  )-(O3  ) :  2.5993( 322)   0.273( 18)
+ (Pb  )-(O3  ) :  2.5994( 322)   0.273( 18)
  (Pb  )-(O3  ) :  2.6436( 324)   0.249( 16)
- (Pb  )-(O3  ) :  2.5993( 322)   0.273( 18)
+ (Pb  )-(O3  ) :  2.5994( 322)   0.273( 18)
  (Pb  )-(O3  ) :  2.6436( 324)   0.249( 16)
  (Pb  )-(O3  ) :  3.0264( 335)   0.114(  8)
 
  Coordination number:    10      Eff.Coor. number: 10.00  for atom: Pb  
- Average distance  :  2.7937( 107)  Distortion:    40.221 xE-04
+ Average distance  :  2.7937( 107)  Distortion:    40.218 xE-04
  Predicted distance:  2.7516        Single bond-valence S= 0.200
                                       Valence:    2.000
                                          Sums:    1.953( 46)
- Deviation from the Valence Sum Rule (r1,%dev):  -0.047   2.327
+ Deviation from the Valence Sum Rule (r1,%dev):  -0.047   2.330
  {r1=Sumj(sij)-Vi, %dev=100abs(r1)/Vi} 
  Deviation from the Equal Valence Rule    (r2):   0.065
  {r2=<sij-<sij>>rms}
@@ -300,19 +300,19 @@
  => Bond-valence and coordination of atom: S    occupancy:  1.000(  0)
     -------------------------------------------------------------------
 
- (S   )-(O1  ) :  1.3977( 495)   1.843(247)
- (S   )-(O2  ) :  1.3432( 565)   2.136(326)
- (S   )-(O3  ) :  1.5370( 327)   1.265(112)
- (S   )-(O3  ) :  1.5370( 327)   1.265(112)
+ (S   )-(O1  ) :  1.3948( 495)   1.858(249)
+ (S   )-(O2  ) :  1.3390( 565)   2.160(330)
+ (S   )-(O3  ) :  1.5406( 328)   1.253(111)
+ (S   )-(O3  ) :  1.5406( 328)   1.253(111)
 
  Coordination number:     4      Eff.Coor. number:  4.00  for atom: S   
- Average distance  :  1.4537( 221)  Distortion:    34.553 xE-04
+ Average distance  :  1.4538( 221)  Distortion:    37.540 xE-04
  Predicted distance:  1.4740        Single bond-valence S= 1.500
                                       Valence:    6.000
-                                         Sums:    6.509(438)
- Deviation from the Valence Sum Rule (r1,%dev):   0.509   8.489
+                                         Sums:    6.524(442)
+ Deviation from the Valence Sum Rule (r1,%dev):   0.524   8.730
  {r1=Sumj(sij)-Vi, %dev=100abs(r1)/Vi} 
- Deviation from the Equal Valence Rule    (r2):   0.377
+ Deviation from the Equal Valence Rule    (r2):   0.393
  {r2=<sij-<sij>>rms}
 
 
@@ -321,16 +321,16 @@
     -------------------------------------------------------------------
 
  (O1  )-(Pb  ) :  2.6622( 422)   0.240( 21)
- (O1  )-(S   ) :  1.3977( 495)   1.843(247)
+ (O1  )-(S   ) :  1.3948( 495)   1.858(249)
 
  Coordination number:     2      Eff.Coor. number:  2.00  for atom: O1  
- Average distance  :  2.0300( 325)  Distortion:   970.073 xE-04
+ Average distance  :  2.0285( 325)  Distortion:   975.894 xE-04
  Predicted distance:  1.6240        Single bond-valence S= 1.000
                                       Valence:   -2.000
-                                         Sums:    2.083(247)
- Deviation from the Valence Sum Rule (r1,%dev):   0.083   4.171
+                                         Sums:    2.098(249)
+ Deviation from the Valence Sum Rule (r1,%dev):   0.098   4.890
  {r1=Sumj(sij)-Vi, %dev=100abs(r1)/Vi} 
- Deviation from the Equal Valence Rule    (r2):   0.802
+ Deviation from the Equal Valence Rule    (r2):   0.809
  {r2=<sij-<sij>>rms}
 
 
@@ -341,16 +341,16 @@
  (O2  )-(Pb  ) :  2.7810( 488)   0.188( 19)
  (O2  )-(Pb  ) :  2.9775( 213)   0.126(  5)
  (O2  )-(Pb  ) :  2.9775( 213)   0.126(  5)
- (O2  )-(S   ) :  1.3432( 565)   2.136(326)
+ (O2  )-(S   ) :  1.3390( 565)   2.160(330)
 
  Coordination number:     4      Eff.Coor. number:  4.00  for atom: O2  
- Average distance  :  2.5198( 201)  Distortion:   736.881 xE-04
+ Average distance  :  2.5188( 201)  Distortion:   741.464 xE-04
  Predicted distance:  1.8805        Single bond-valence S= 0.500
                                       Valence:   -2.000
-                                         Sums:    2.576(327)
- Deviation from the Valence Sum Rule (r1,%dev):   0.576  28.817
+                                         Sums:    2.601(331)
+ Deviation from the Valence Sum Rule (r1,%dev):   0.601  30.054
  {r1=Sumj(sij)-Vi, %dev=100abs(r1)/Vi} 
- Deviation from the Equal Valence Rule    (r2):   0.862
+ Deviation from the Equal Valence Rule    (r2):   0.872
  {r2=<sij-<sij>>rms}
 
 
@@ -359,18 +359,18 @@
     -------------------------------------------------------------------
 
  (O3  )-(Pb  ) :  3.0264( 335)   0.114(  8)
- (O3  )-(Pb  ) :  2.5993( 322)   0.273( 18)
+ (O3  )-(Pb  ) :  2.5994( 322)   0.273( 18)
  (O3  )-(Pb  ) :  2.6436( 324)   0.249( 16)
- (O3  )-(S   ) :  1.5370( 327)   1.265(112)
+ (O3  )-(S   ) :  1.5406( 328)   1.253(111)
 
  Coordination number:     4      Eff.Coor. number:  4.00  for atom: O3  
- Average distance  :  2.4516( 164)  Distortion:   509.779 xE-04
+ Average distance  :  2.4525( 164)  Distortion:   506.651 xE-04
  Predicted distance:  1.8805        Single bond-valence S= 0.500
                                       Valence:   -2.000
-                                         Sums:    1.902(115)
- Deviation from the Valence Sum Rule (r1,%dev):  -0.098   4.924
+                                         Sums:    1.889(114)
+ Deviation from the Valence Sum Rule (r1,%dev):  -0.111   5.542
  {r1=Sumj(sij)-Vi, %dev=100abs(r1)/Vi} 
- Deviation from the Equal Valence Rule    (r2):   0.460
+ Deviation from the Equal Valence Rule    (r2):   0.455
  {r2=<sij-<sij>>rms}
 
  => Lines concerning predicted average distances and single
@@ -386,7 +386,7 @@
     differences by the multiplicity of the site. N_Atoms_UCell is the total number of atoms in the 
     conventional unit cell. In all cases the result of the different expressions is multiplied by 100.0
 
- =>  Old Global Instability Index (  GII=SQRT{SUM{|BVS-abs(q)|^2}/Num_Atoms} ) =  34.94 /100
- =>  Normalized   GII(a)=       SUM {|BVS-abs(q)|  *mult}       /N_Atoms_UCell =  23.54 /100
- =>  Normalized   GII(b)=       SUM {|BVS-abs(q)|  *mult/abs(q)}/N_Atoms_UCell =   8.94 %
- =>  Normalized   GII(c)= SQRT{ SUM {|BVS-abs(q)|^2*mult}       /N_Atoms_UCell}=  32.15 /100
+ =>  Old Global Instability Index (  GII=SQRT{SUM{|BVS-abs(q)|^2}/Num_Atoms} ) =  36.32 /100
+ =>  Normalized   GII(a)=       SUM {|BVS-abs(q)|  *mult}       /N_Atoms_UCell =  24.85 /100
+ =>  Normalized   GII(b)=       SUM {|BVS-abs(q)|  *mult/abs(q)}/N_Atoms_UCell =   9.51 %
+ =>  Normalized   GII(c)= SQRT{ SUM {|BVS-abs(q)|^2*mult}       /N_Atoms_UCell}=  33.47 /100

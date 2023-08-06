@@ -1,0 +1,239 @@
+
+
+        **********************************************************
+        ** PROGRAM FullProf.2k (Version 7.20 - Oct2019-ILL JRC) **
+        **********************************************************
+                       M U L T I -- P A T T E R N                 
+            Rietveld, Profile Matching & Integrated Intensity     
+                 Refinement of X-ray and/or Neutron Data
+
+
+    Date: 05/08/2023  Time: 08:39:49.773                              
+
+ => PCR file code: CuO
+ => DAT file code: 230804_Cu3P_geom.dat -> Relative contribution: 1.0000                                                            
+ => Title: Geometrical and optical properties, and crystal structure of tenorite
+
+ ==> CONDITIONS OF THIS RUN FOR PATTERN No.:  1
+
+ => Global Refinement of X-ray powder diffraction data                                                                              
+ => Global Refinement of X-ray powder diffraction data                                                                              
+    Bragg-Brentano(X-rays) or Debye-Scherrer geometry(Neutrons)
+ => The    7th default profile function was selected
+
+ => Data supplied in free format for pattern:  1
+ => Wavelengths:  1.54056 1.54439
+ => Cos(Monochromator angle)=   0.9100
+ => Absorption correction (AC), muR-eff =   0.0000  0.0000
+ => Base of peaks: 2.0*HW*    8.00
+ ==> Angular range, step and number of points:
+     2Thmin:       5.000000  2Thmax:     100.000000  Step:       0.020000  No. of points:   4751
+ =>-------> Pattern#  1
+ => Crystal Structure Refinement for phase: 1
+ => The density (volumic mass) of phase 1 is:    6.609 g/cm3
+ => Scor: 6.9907
+
+ ==> RESULTS OF REFINEMENT:
+
+
+ => No. of fitted parameters:    0
+
+
+------------------------------------------------------------------------------
+ => Phase No.  1 Geometrical and optical properties, and C 1 2/c 1           
+------------------------------------------------------------------------------
+
+ =>  No. of reflections for pattern#:   1:    85/2
+
+
+ ==> ATOM PARAMETERS:
+
+  Name      x     sx       y     sy       z      sz      B   sB   occ. socc.  Mult
+ Cu1     0.25000(   0)  0.25000(   0)  0.00000(   0)  0.000(  0)  0.500(  0)    4
+ O1      0.00000(   0)  0.91600(   0)  0.75000(   0)  0.000(  0)  0.500(  0)    4
+
+ ==> PROFILE PARAMETERS FOR PATTERN#  1
+
+ => Cell parameters      :
+                              4.65300   0.00000
+                              3.41000   0.00000
+                              5.10800   0.00000
+                             90.00000   0.00000
+                             99.48001   0.00000
+                             90.00000   0.00000
+ 
+ => overall scale factor :      0.001000000     0.000000000
+ => Eta(p-v) or m(p-vii) :    0.00000   0.00000
+ => Overall tem. factor  :    0.00000   0.00000
+ => Halfwidth parameters :    0.00413   0.00000
+                             -0.00762   0.00000
+                              0.00625   0.00000
+ => Preferred orientation:    0.00000   0.00000
+                              0.00000   0.00000
+ => Asymmetry parameters :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => X and y parameters   :    0.01896   0.00000
+                              0.00000   0.00000
+ => Strain parameters    :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => Size parameters (G,L):    0.00000   0.00000
+                              0.00000   0.00000
+
+ => Add. shape parameters: 
+                              0.00000   0.00000
+                              0.00000   0.00000
+
+
+
+ ==> GLOBAL PARAMETERS FOR PATTERN#  1
+
+
+ => Zero-point:     0.0000    0.0000
+ => Background Polynomial Parameters ==>
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+ 
+ => Cos( theta)-shift parameter :   0.0000  0.0000
+ => Sin(2theta)-shift parameter :   0.0000  0.0000
+
+ ==> RELIABILITY FACTORS WITH ALL NON-EXCLUDED POINTS FOR PATTERN:  1
+
+  => Cycle:  1 => MaxCycle:  1
+ => N-P+C:  4751
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  102.     Rwp:  124.     Rexp:    7.96 Chi2:  242.      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  102.     Rwp:  124.     Rexp:    7.96 Chi2:  242.    
+ => Deviance:  0.245E+07     Dev*  :   0.000    
+ => DW-Stat.:    0.0836     DW-exp:     1.9099
+ => N-sigma of the GoF:    11746.013
+
+ ==> RELIABILITY FACTORS FOR POINTS WITH BRAGG CONTRIBUTIONS FOR PATTERN:  1
+
+ => N-P+C:  1592
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  105.     Rwp:  156.     Rexp:    7.52 Chi2:  428.      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  105.     Rwp:  156.     Rexp:    7.52 Chi2:  428.    
+ => Deviance:  0.245E+07     Dev*  :         NaN
+ => DW-Stat.:    0.1411     DW-exp:     1.8439
+ => N-sigma of the GoF:    12048.054
+
+ => Global user-weigthed Chi2 (Bragg contrib.):   428.    
+ => Scor: 6.9907
+
+ ==> RESULTS OF REFINEMENT:
+
+
+ => No. of fitted parameters:    0
+
+
+------------------------------------------------------------------------------
+ => Phase No.  1 Geometrical and optical properties, and C 1 2/c 1           
+------------------------------------------------------------------------------
+
+ =>  No. of reflections for pattern#:   1:    85/2
+
+
+ ==> ATOM PARAMETERS:
+
+  Name      x     sx       y     sy       z      sz      B   sB   occ. socc.  Mult
+ Cu1     0.25000(   0)  0.25000(   0)  0.00000(   0)  0.000(  0)  0.500(  0)    4
+ O1      0.00000(   0)  0.91600(   0)  0.75000(   0)  0.000(  0)  0.500(  0)    4
+
+ ==> PROFILE PARAMETERS FOR PATTERN#  1
+
+ => Cell parameters      :
+                              4.65300   0.00000
+                              3.41000   0.00000
+                              5.10800   0.00000
+                             90.00000   0.00000
+                             99.48001   0.00000
+                             90.00000   0.00000
+ 
+ => overall scale factor :      0.001000000     0.000000000
+ => Eta(p-v) or m(p-vii) :    0.00000   0.00000
+ => Overall tem. factor  :    0.00000   0.00000
+ => Halfwidth parameters :    0.00413   0.00000
+                             -0.00762   0.00000
+                              0.00625   0.00000
+ => Preferred orientation:    0.00000   0.00000
+                              0.00000   0.00000
+ => Asymmetry parameters :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => X and y parameters   :    0.01896   0.00000
+                              0.00000   0.00000
+ => Strain parameters    :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => Size parameters (G,L):    0.00000   0.00000
+                              0.00000   0.00000
+
+ => Add. shape parameters: 
+                              0.00000   0.00000
+                              0.00000   0.00000
+
+
+
+ ==> GLOBAL PARAMETERS FOR PATTERN#  1
+
+
+ => Zero-point:     0.0000    0.0000
+ => Background Polynomial Parameters ==>
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+                               0.0000      0.0000    
+ 
+ => Cos( theta)-shift parameter :   0.0000  0.0000
+ => Sin(2theta)-shift parameter :   0.0000  0.0000
+
+ ==> RELIABILITY FACTORS WITH ALL NON-EXCLUDED POINTS FOR PATTERN:  1
+
+  => Cycle:  1 => MaxCycle:  1
+ => N-P+C:  4751
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  102.     Rwp:  124.     Rexp:    7.96 Chi2:  242.      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  102.     Rwp:  124.     Rexp:    7.96 Chi2:  242.    
+ => Deviance:  0.245E+07     Dev*  :   0.000    
+ => DW-Stat.:    0.0836     DW-exp:     1.9099
+ => N-sigma of the GoF:    11746.013
+
+ ==> RELIABILITY FACTORS FOR POINTS WITH BRAGG CONTRIBUTIONS FOR PATTERN:  1
+
+ => N-P+C:  1592
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  105.     Rwp:  156.     Rexp:    7.52 Chi2:  428.      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  105.     Rwp:  156.     Rexp:    7.52 Chi2:  428.    
+ => Deviance:  0.245E+07     Dev*  :         NaN
+ => DW-Stat.:    0.1411     DW-exp:     1.8439
+ => N-sigma of the GoF:    12048.054
+
+ => Global user-weigthed Chi2 (Bragg contrib.):   722.    
+
+     -----------------------------------------------------
+     BRAGG R-Factors and weight fractions for Pattern #  1
+     -----------------------------------------------------
+
+ => Phase:  1     Geometrical and optical properties, and crystal structure of tenorite
+ => Bragg R-factor:   98.5       Vol:   79.940( 0.000)  Fract(%):  100.00( 0.00)
+ => Rf-factor=  77.0             ATZ:         318.182   Brindley:  1.0000
+
+ 
+              CPU Time:     1.305 seconds
+                            0.022 minutes
+
+ => Run finished at:     Date: 05/08/2023  Time: 08:39:51.241                              

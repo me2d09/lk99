@@ -1,0 +1,73 @@
+#------------------------------------------------------------------------------
+#$Date: 2023-03-26 11:09:57 +0300 (Sun, 26 Mar 2023) $
+#$Revision: 282068 $
+#$URL: file:///home/coder/svn-repositories/cod/cif/9/00/77/9007764.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/. The original data for this entry
+# were provided the American Mineralogist Crystal Structure Database,
+# http://rruff.geo.arizona.edu/AMS/amcsd.php
+#
+# The file may be used within the scientific community so long as
+# proper attribution is given to the journal article from which the
+# data were obtained.
+#
+data_9007764
+loop_
+_publ_author_name
+'Effenberger, H.'
+_publ_section_title
+;
+ Structural refinement of low-temperature copper(II) pyrophosphate
+;
+_journal_name_full               'Acta Crystallographica, Section C'
+_journal_page_first              691
+_journal_page_last               692
+_journal_paper_doi               10.1107/S0108270189006463
+_journal_volume                  46
+_journal_year                    1990
+_chemical_formula_structural     Cu2P2O7
+_chemical_formula_sum            'Cu2 O7 P2'
+_space_group_IT_number           15
+_symmetry_space_group_name_Hall  '-C 2yc'
+_symmetry_space_group_name_H-M   'C 1 2/c 1'
+_cell_angle_alpha                90
+_cell_angle_beta                 109.62
+_cell_angle_gamma                90
+_cell_length_a                   6.895
+_cell_length_b                   8.113
+_cell_length_c                   9.164
+_cell_volume                     482.863
+_database_code_amcsd             0010124
+_exptl_crystal_density_diffrn    4.141
+_cod_original_formula_sum        'Cu2 P2 O7'
+_cod_database_code               9007764
+_amcsd_formula_title             Cu2P2O7
+loop_
+_space_group_symop_operation_xyz
+x,y,z
+1/2+x,1/2+y,z
+x,-y,1/2+z
+1/2+x,1/2-y,1/2+z
+-x,y,1/2-z
+1/2-x,1/2+y,1/2-z
+-x,-y,-z
+1/2-x,1/2-y,-z
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu -0.01814 0.31288 0.50706 0.01030
+P 0.19754 0.00750 0.20566 0.00750
+O1 0.00000 0.04660 0.25000 0.02600
+O2 0.37570 0.00020 0.36140 0.00930
+O3c 0.22080 0.15590 0.11280 0.01120
+O3t 0.17850 -0.15080 0.11790 0.01620
+loop_
+_cod_related_entry_id
+_cod_related_entry_database
+_cod_related_entry_code
+1 AMCSD 0010124
