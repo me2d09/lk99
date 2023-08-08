@@ -13,7 +13,7 @@ Team:
 
 ### 2nd August 2023
 
-17:00 Copper and Phosphorus powder mised in 3:1 ratio and putted to the oven for 2 days. *T* = 550 °C
+17:00 Copper and Phosphorus powder mixed in 3:1 ratio and putted to the oven for 2 days. *T* = 550 °C
 
 ### 3rd August 2023
 
