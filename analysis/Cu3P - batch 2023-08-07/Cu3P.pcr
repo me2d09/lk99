@@ -1,0 +1,89 @@
+COMM #(C) 2023 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+! Current global Chi2 (Bragg contrib.) =      2.551    
+! Files => DAT-file: 230807_Cu3P_geom.dat,  PCR-file: Cu3P
+!Job Npr Nph Nba Nex Nsc Nor Dum Iwg Ilo Ias Res Ste Nre Cry Uni Cor Opt Aut
+   0   7   2   0   2   0   0   0   0   0   0   0   0   0   0   0   0   0   1
+!
+!Ipr Ppl Ioc Mat Pcr Ls1 Ls2 Ls3 NLI Prf Ins Rpa Sym Hkl Fou Sho Ana
+   0   0   1   0   1   0   4   0   0   3   0   0   0   0   0   0   0
+!
+! Lambda1  Lambda2    Ratio    Bkpos    Wdt    Cthm     muR   AsyLim   Rpolarz  2nd-muR -> Patt# 1
+ 1.540560 1.544390  0.50000   40.000  8.0000  0.9100  0.0000    0.00    0.0000  0.0000
+!
+!NCY  Eps  R_at  R_an  R_pr  R_gl     Thmin       Step       Thmax    PSD    Sent0
+ 15  0.10  1.00  1.00  1.00  1.00      5.0000   0.010000    70.0000   0.000   0.000
+!
+! Excluded regions (LowT  HighT) for Pattern#  1
+        0.00       10.00
+      154.00      180.00
+! 
+!
+      23    !Number of refined parameters
+!
+!  Zero    Code    SyCos    Code   SySin    Code  Lambda     Code MORE ->Patt# 1
+  0.16181    0.0  0.00000    0.0  0.00000    0.0 0.000000    0.00   0
+!   Background coefficients/codes  for Pattern#  1  (Polynomial of 6th degree)
+     288.366      87.015     -36.053    -373.598    -197.174     834.159
+       11.00       21.00       31.00       41.00       51.00       61.00
+!-------------------------------------------------------------------------------
+!  Data for PHASE number:   1  ==> Current R_Bragg for Pattern#  1:  13.0826
+!-------------------------------------------------------------------------------
+#(C) 2023 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+!
+!Nat Dis Ang Pr1 Pr2 Pr3 Jbt Irf Isy Str Furth       ATZ    Nvk Npr More
+   5   0   0 0.0 0.0 1.0   0   0   0   0   0       1329.671   0   7   0
+!
+!
+P 63 c m                 <--Space group symbol
+!Atom   Typ       X        Y        Z     Biso       Occ     In Fin N_t Spc /Codes
+Cu1    Cu      0.28100  0.00000  0.06977  0.00000   0.50000   0   0   0    0  
+                131.00     0.00   141.00     0.00      0.00
+Cu2    Cu      0.37537  0.00000  0.42253  0.00000   0.50000   0   0   0    0  
+                151.00     0.00   161.00     0.00      0.00
+Cu3    Cu      0.33330  0.66670  0.18635  0.00000   0.33333   0   0   0    0  
+                  0.00     0.00   171.00     0.00      0.00
+Cu4    Cu      0.00000  0.00000  0.31225  0.00000   0.16667   0   0   0    0  
+                  0.00     0.00   181.00     0.00      0.00
+P1     P       0.33220  0.00000  0.75000  0.00000   0.50000   0   0   0    0  
+                  0.00     0.00     0.00     0.00      0.00
+!-------> Profile Parameters for Pattern #  1
+!  Scale        Shape1      Bov      Str1      Str2      Str3   Strain-Model
+ 0.10209E-03   0.00000   1.24426   0.00000   0.00000   0.00000       0
+    71.00000     0.000   111.000     0.000     0.000     0.000
+!       U         V          W           X          Y        GauSiz   LorSiz Size-Model
+   0.170566  -0.150886   0.043788   0.130807   0.000000   0.000000   0.000000    0
+      0.000    121.000    101.000      0.000      0.000      0.000      0.000
+!     a          b         c        alpha      beta       gamma      #Cell Info
+   6.972890   6.972890   7.146305  90.000000  90.000000 120.000000   
+   81.00000   81.00000   91.00000    0.00000    0.00000   81.00000
+!  Pref1    Pref2      Asy1     Asy2     Asy3     Asy4      S_L      D_L
+  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00
+!-------------------------------------------------------------------------------
+!  Data for PHASE number:   2  ==> Current R_Bragg for Pattern#  1:  10.2106
+!-------------------------------------------------------------------------------
+Copper
+!
+!Nat Dis Ang Pr1 Pr2 Pr3 Jbt Irf Isy Str Furth       ATZ    Nvk Npr More
+   1   0   0 0.0 0.0 1.0   0   0   0   0   0        254.103   0   7   0
+!
+!
+F m -3 m                 <--Space group symbol
+!Atom   Typ       X        Y        Z     Biso       Occ     In Fin N_t Spc /Codes
+Cu     Cu      0.00000  0.00000  0.00000  0.00000   0.02083   0   0   0    0  
+                  0.00     0.00     0.00     0.00      0.00
+!-------> Profile Parameters for Pattern #  1
+!  Scale        Shape1      Bov      Str1      Str2      Str3   Strain-Model
+ 0.46748E-03   0.00000   3.31891   0.00000   0.00000   0.00000       0
+   191.00000     0.000   221.000     0.000     0.000     0.000
+!       U         V          W           X          Y        GauSiz   LorSiz Size-Model
+   0.154165  -0.151713   0.047037   0.130807   0.000000   0.000000   0.000000    0
+    201.000      0.000    211.000      0.000      0.000      0.000      0.000
+!     a          b         c        alpha      beta       gamma      #Cell Info
+   3.619011   3.619011   3.619011  90.000000  90.000000  90.000000   
+  231.00000  231.00000  231.00000    0.00000    0.00000    0.00000
+!  Pref1    Pref2      Asy1     Asy2     Asy3     Asy4      S_L      D_L
+  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000  0.00000
+     0.00     0.00     0.00     0.00     0.00     0.00     0.00     0.00
+!  2Th1/TOF1    2Th2/TOF2  Pattern to plot
+      10.000      70.000       1

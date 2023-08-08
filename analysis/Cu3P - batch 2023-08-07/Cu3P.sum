@@ -1,0 +1,201 @@
+
+
+        **********************************************************
+        ** PROGRAM FullProf.2k (Version 7.20 - Oct2019-ILL JRC) **
+        **********************************************************
+                       M U L T I -- P A T T E R N                 
+            Rietveld, Profile Matching & Integrated Intensity     
+                 Refinement of X-ray and/or Neutron Data
+
+
+    Date: 08/08/2023  Time: 11:31:23.443                              
+
+ => PCR file code: Cu3P
+ => DAT file code: 230807_Cu3P_geom.dat -> Relative contribution: 1.0000                                                            
+ => Title: #(C) 2023 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+
+ ==> CONDITIONS OF THIS RUN FOR PATTERN No.:  1
+
+ => Global Refinement of X-ray powder diffraction data                                                                              
+ => Global Refinement of X-ray powder diffraction data                                                                              
+    Bragg-Brentano(X-rays) or Debye-Scherrer geometry(Neutrons)
+ => The    7th default profile function was selected
+
+ => Data supplied in free format for pattern:  1
+ => Wavelengths:  1.54056 1.54439
+ => Cos(Monochromator angle)=   0.9100
+ => Absorption correction (AC), muR-eff =   0.0000  0.0000
+ => Base of peaks: 2.0*HW*    8.00
+ ==> Angular range, step and number of points:
+     2Thmin:       5.000000  2Thmax:      70.000000  Step:       0.010000  No. of points:   6501
+ =>-------> Pattern#  1
+ => Crystal Structure Refinement for phase: 1
+ => The density (volumic mass) of phase 1 is:    7.338 g/cm3
+ =>-------> Pattern#  1
+ => Crystal Structure Refinement for phase: 2
+ => The density (volumic mass) of phase 2 is:    8.941 g/cm3
+ => Scor: 1.2673
+
+ ==> RESULTS OF REFINEMENT:
+
+
+ => No. of fitted parameters:   23
+
+
+------------------------------------------------------------------------------
+ => Phase No.  1 #(C) 2023 by FIZ Karlsruhe - Leibniz InsP 63 c m            
+------------------------------------------------------------------------------
+
+ =>  No. of reflections for pattern#:   1:    72/2
+
+
+ ==> ATOM PARAMETERS:
+
+  Name      x     sx       y     sy       z      sz      B   sB   occ. socc.  Mult
+ Cu1     0.28100(  69)  0.00000(   0)  0.06977( 394)  0.000(  0)  0.500(  0)    6
+ Cu2     0.37537(  67)  0.00000(   0)  0.42253( 390)  0.000(  0)  0.500(  0)    6
+ Cu3     0.33330(   0)  0.66670(   0)  0.18635( 596)  0.000(  0)  0.333(  0)    4
+ Cu4     0.00000(   0)  0.00000(   0)  0.31225( 587)  0.000(  0)  0.167(  0)    2
+ P1      0.33220(   0)  0.00000(   0)  0.75000(   0)  0.000(  0)  0.500(  0)    6
+
+ ==> PROFILE PARAMETERS FOR PATTERN#  1
+
+ => Cell parameters      :
+                              6.97289   0.00005
+                              6.97289   0.00005
+                              7.14630   0.00009
+                             90.00000   0.00000
+                             90.00000   0.00000
+                            120.00000   0.00000
+ 
+ => overall scale factor :      0.000102087     0.000002350
+ => Eta(p-v) or m(p-vii) :    0.00000   0.00000
+ => Overall tem. factor  :    1.24426   0.20267
+ => Halfwidth parameters :    0.17057   0.00000
+                             -0.15089   0.00612
+                              0.04379   0.00247
+ => Preferred orientation:    0.00000   0.00000
+                              0.00000   0.00000
+ => Asymmetry parameters :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => X and y parameters   :    0.13081   0.00000
+                              0.00000   0.00000
+ => Strain parameters    :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => Size parameters (G,L):    0.00000   0.00000
+                              0.00000   0.00000
+
+ => Add. shape parameters: 
+                              0.00000   0.00000
+                              0.00000   0.00000
+
+
+
+------------------------------------------------------------------------------
+ => Phase No.  2 Copper                                  F m -3 m            
+------------------------------------------------------------------------------
+
+ =>  No. of reflections for pattern#:   1:     4/2
+
+
+ ==> ATOM PARAMETERS:
+
+  Name      x     sx       y     sy       z      sz      B   sB   occ. socc.  Mult
+ Cu      0.00000(   0)  0.00000(   0)  0.00000(   0)  0.000(  0)  0.021(  0)    4
+
+ ==> PROFILE PARAMETERS FOR PATTERN#  1
+
+ => Cell parameters      :
+                              3.61901   0.00007
+                              3.61901   0.00007
+                              3.61901   0.00007
+                             90.00000   0.00000
+                             90.00000   0.00000
+                             90.00000   0.00000
+ 
+ => overall scale factor :      0.000467485     0.000066553
+ => Eta(p-v) or m(p-vii) :    0.00000   0.00000
+ => Overall tem. factor  :    3.31891   1.16261
+ => Halfwidth parameters :    0.15417   0.04235
+                             -0.15171   0.00000
+                              0.04704   0.00735
+ => Preferred orientation:    0.00000   0.00000
+                              0.00000   0.00000
+ => Asymmetry parameters :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => X and y parameters   :    0.13081   0.00000
+                              0.00000   0.00000
+ => Strain parameters    :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => Size parameters (G,L):    0.00000   0.00000
+                              0.00000   0.00000
+
+ => Add. shape parameters: 
+                              0.00000   0.00000
+                              0.00000   0.00000
+
+
+
+ ==> GLOBAL PARAMETERS FOR PATTERN#  1
+
+
+ => Zero-point:     0.1618    0.0000
+ => Background Polynomial Parameters ==>
+                               288.37     0.73048    
+                               87.015      3.6615    
+                              -36.053      7.4012    
+                              -373.60      24.548    
+                              -197.17      14.092    
+                               834.16      37.232    
+ 
+ => Cos( theta)-shift parameter :   0.0000  0.0000
+ => Sin(2theta)-shift parameter :   0.0000  0.0000
+
+ ==> RELIABILITY FACTORS WITH ALL NON-EXCLUDED POINTS FOR PATTERN:  1
+
+  => Cycle: 15 => MaxCycle: 15
+ => N-P+C:  5977
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  7.10     Rwp:  8.56     Rexp:    5.70 Chi2:  2.26      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  56.9     Rwp:  31.0     Rexp:   20.61 Chi2:  2.26    
+ => Deviance:  0.136E+05     Dev*  :   2.267    
+ => DW-Stat.:    1.6658     DW-exp:     1.9276
+ => N-sigma of the GoF:       68.698
+
+ ==> RELIABILITY FACTORS FOR POINTS WITH BRAGG CONTRIBUTIONS FOR PATTERN:  1
+
+ => N-P+C:  3853
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  7.22     Rwp:  8.64     Rexp:    5.41 Chi2:  2.55      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  43.2     Rwp:  26.8     Rexp:   16.77 Chi2:  2.55    
+ => Deviance:  0.979E+04     Dev*  :   2.541    
+ => DW-Stat.:    2.2860     DW-exp:     1.9122
+ => N-sigma of the GoF:       68.070
+
+ => Global user-weigthed Chi2 (Bragg contrib.):   2.55    
+
+     -----------------------------------------------------
+     BRAGG R-Factors and weight fractions for Pattern #  1
+     -----------------------------------------------------
+
+ => Phase:  1     #(C) 2023 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+ => Bragg R-factor:   13.1       Vol:  300.911( 0.005)  Fract(%):   87.89( 3.09)
+ => Rf-factor=  21.2             ATZ:        1329.671   Brindley:  1.0000
+
+ => Phase:  2     Copper
+ => Bragg R-factor:   10.2       Vol:   47.399( 0.002)  Fract(%):   12.11( 1.75)
+ => Rf-factor=  5.12             ATZ:         254.103   Brindley:  1.0000
+
+ 
+              CPU Time:    14.938 seconds
+                            0.249 minutes
+
+ => Run finished at:     Date: 08/08/2023  Time: 11:31:38.502                              
